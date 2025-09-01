@@ -83,9 +83,7 @@ interface Venue {
 }
 
 const CITY = "Charlotte";
-
 const WEEKDAYS = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"];
-
 const CATEGORY_TAXONOMY = [
   "tacos",
   "wings",
@@ -157,9 +155,7 @@ function TopBar({
       <div className="max-w-6xl mx-auto px-4 py-3 flex items-center gap-3">
         <Sparkles className="w-5 h-5" />
         <h1 className="text-xl font-semibold">MenuScout CLT</h1>
-        <Badge variant="secondary" className="ml-1">
-          MVP
-        </Badge>
+        <Badge variant="secondary" className="ml-1">MVP</Badge>
         <div className="ml-2 text-xs text-muted-foreground">{count} venues</div>
         {lastUpdated ? <div className="ml-2 text-[10px] text-muted-foreground">Last updated: {lastUpdated}</div> : null}
         <div className="ml-auto flex items-center gap-2">
@@ -218,35 +214,21 @@ function FilterBar({
           onChange={(e) => setSearch(e.target.value)}
         />
         <Select value={weekday} onValueChange={(v) => setWeekday(v)}>
-          <SelectTrigger className="w-[160px]">
-            <SelectValue placeholder="Weekday" />
-          </SelectTrigger>
+          <SelectTrigger className="w-[160px]"><SelectValue placeholder="Weekday" /></SelectTrigger>
           <SelectContent>
             <SelectItem value="Any">Any day</SelectItem>
-            {WEEKDAYS.map((d) => (
-              <SelectItem key={d} value={d}>
-                {d}
-              </SelectItem>
-            ))}
+            {WEEKDAYS.map((d) => (<SelectItem key={d} value={d}>{d}</SelectItem>))}
           </SelectContent>
         </Select>
         <Select value={category} onValueChange={(v) => setCategory(v)}>
-          <SelectTrigger className="w-[180px]">
-            <SelectValue placeholder="Category" />
-          </SelectTrigger>
+          <SelectTrigger className="w-[180px]"><SelectValue placeholder="Category" /></SelectTrigger>
           <SelectContent>
             <SelectItem value="Any">Any category</SelectItem>
-            {CATEGORY_TAXONOMY.map((c) => (
-              <SelectItem key={c} value={c}>
-                {titleCase(c)}
-              </SelectItem>
-            ))}
+            {CATEGORY_TAXONOMY.map((c) => (<SelectItem key={c} value={c}>{titleCase(c)}</SelectItem>))}
           </SelectContent>
         </Select>
         <DropdownMenu>
-          <DropdownMenuTrigger asChild>
-            <Button variant="outline" size="sm">Neighborhoods</Button>
-          </DropdownMenuTrigger>
+          <DropdownMenuTrigger asChild><Button variant="outline" size="sm">Neighborhoods</Button></DropdownMenuTrigger>
           <DropdownMenuContent className="w-56">
             <DropdownMenuLabel>Select neighborhoods</DropdownMenuLabel>
             {neighborhoods.map((n) => (
@@ -254,11 +236,8 @@ function FilterBar({
                 key={n}
                 checked={selectedNeighborhoods.includes(n)}
                 onCheckedChange={(checked) => {
-                  if (checked) {
-                    setSelectedNeighborhoods((prev) => (Array.isArray(prev) && prev.includes(n) ? prev : [...prev, n]));
-                  } else {
-                    setSelectedNeighborhoods((prev) => (Array.isArray(prev) ? prev.filter((x) => x !== n) : []));
-                  }
+                  if (checked) setSelectedNeighborhoods((prev) => (Array.isArray(prev) && prev.includes(n) ? prev : [...prev, n]));
+                  else setSelectedNeighborhoods((prev) => (Array.isArray(prev) ? prev.filter((x) => x !== n) : []));
                 }}
               >
                 {n}
@@ -302,16 +281,9 @@ function DealRow({ d }: { d: Deal }) {
           </Badge>
         </div>
         {d.description ? <p className="text-sm">{d.description}</p> : null}
-        {d.restrictions?.length ? (
-          <p className="text-xs text-muted-foreground">Restrictions: {d.restrictions.join(", ")}</p>
-        ) : null}
+        {d.restrictions?.length ? (<p className="text-xs text-muted-foreground">Restrictions: {d.restrictions.join(", ")}</p>) : null}
         {d.source_url ? (
-          <a
-            href={d.source_url}
-            target="_blank"
-            rel="noreferrer"
-            className="text-xs inline-flex items-center gap-1 text-primary hover:underline"
-          >
+          <a href={d.source_url} target="_blank" rel="noreferrer" className="text-xs inline-flex items-center gap-1 text-primary hover:underline">
             Source <ExternalLink className="w-3.5 h-3.5" />
           </a>
         ) : null}
@@ -343,9 +315,7 @@ function VenueCard({ v }: { v: Venue }) {
           <CardTitle className="flex items-center gap-2">
             <span>{v.venue_name}</span>
             {v.categories?.slice(0, 3).map((c) => (
-              <Badge key={c} variant="outline" className="capitalize">
-                {titleCase(c)}
-              </Badge>
+              <Badge key={c} variant="outline" className="capitalize">{titleCase(c)}</Badge>
             ))}
           </CardTitle>
         </CardHeader>
@@ -353,16 +323,12 @@ function VenueCard({ v }: { v: Venue }) {
           {v.address?.street ? (
             <div className="text-sm text-muted-foreground flex items-center gap-2">
               <MapPin className="w-4 h-4" />
-              <span>
-                {v.address.street}, {v.address.city}, {v.address.region} {v.address.postal_code}
-              </span>
+              <span>{v.address.street}, {v.address.city}, {v.address.region} {v.address.postal_code}</span>
             </div>
           ) : null}
           {v.deals?.length ? (
             <div className="space-y-2">
-              {v.deals.map((d, i) => (
-                <DealRow key={`${v.venue_name}-${i}`} d={d} />
-              ))}
+              {v.deals.map((d, i) => (<DealRow key={`${v.venue_name}-${i}`} d={d} />))}
             </div>
           ) : (
             <p className="text-sm text-muted-foreground">No deals listed.</p>
@@ -402,9 +368,7 @@ function ImportDialog({
   return (
     <Dialog open={open} onOpenChange={onOpenChange}>
       <DialogContent className="max-w-2xl">
-        <DialogHeader>
-          <DialogTitle>Import venues JSON</DialogTitle>
-        </DialogHeader>
+        <DialogHeader><DialogTitle>Import venues JSON</DialogTitle></DialogHeader>
         <div className="space-y-2">
           <p className="text-sm text-muted-foreground">Paste an array matching the MenuScout schema. Existing data will be replaced.</p>
           <textarea
@@ -415,9 +379,7 @@ function ImportDialog({
           />
           {error ? <p className="text-xs text-red-500">{error}</p> : null}
           <div className="flex justify-end gap-2">
-            <Button variant="outline" onClick={() => onOpenChange(false)}>
-              Cancel
-            </Button>
+            <Button variant="outline" onClick={() => onOpenChange(false)}>Cancel</Button>
             <Button onClick={handleImport}>Import</Button>
           </div>
         </div>
@@ -444,16 +406,13 @@ function Highlights({ venues }: { venues: Venue[] }) {
           <CardHeader>
             <CardTitle className="text-base flex items-center gap-2">
               <Sparkles className="w-4 h-4" /> {d.title}
-              <Badge variant="outline" className="ml-auto">
-                {score}
-              </Badge>
+              <Badge variant="outline" className="ml-auto">{score}</Badge>
             </CardTitle>
           </CardHeader>
           <CardContent className="space-y-2">
             <div className="text-sm">{v.venue_name}</div>
             <div className="text-xs text-muted-foreground">
-              {d.weekday} {d.start_time ? `${d.start_time}` : ""}
-              {d.end_time ? `-${d.end_time}` : ""}
+              {d.weekday} {d.start_time ? `${d.start_time}` : ""}{d.end_time ? `-${d.end_time}` : ""}
             </div>
             <div className="text-xs text-muted-foreground">
               {typeof d.price === "number" ? `$${d.price.toFixed(2)}` : "Price varies"} - {(d.category || []).join(", ")}
@@ -496,4 +455,126 @@ export default function MenuScoutApp() {
       ]
         .join(" \n ")
         .toLowerCase();
+
       if (term && !hay.includes(term)) return false;
+
+      const hood = computeNeighborhood(v);
+      if (selectedNeighborhoods.length && !selectedNeighborhoods.includes(hood)) return false;
+
+      if (todayOnly) {
+        if (!v.deals?.some((d) => d.weekday === today)) return false;
+      } else if (weekday !== "Any") {
+        if (!v.deals?.some((d) => d.weekday === weekday)) return false;
+      }
+
+      if (category !== "Any") {
+        if (!v.deals?.some((d) => (d.category || []).includes(category))) return false;
+      }
+
+      return true;
+    });
+  }, [venues, search, weekday, category, todayOnly, selectedNeighborhoods, today]);
+
+  const lastUpdated = useMemo(() => {
+    const dates = venues.map((v) => v.last_verified_at).filter(Boolean) as string[];
+    if (!dates.length) return "";
+    try {
+      const d = new Date(Math.max(...dates.map((d) => new Date(d).getTime())));
+      return d.toLocaleString();
+    } catch {
+      return "";
+    }
+  }, [venues]);
+
+  async function fetchVenues() {
+    try {
+      setUpdating(true);
+      setLoadError("");
+      const res = await fetch(`/data/charlotte-deals.json`, { cache: "no-store" });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const data: unknown = await res.json();
+      if (Array.isArray(data)) setVenues(data as Venue[]);
+    } catch (e) {
+      setLoadError(e instanceof Error ? e.message : String(e));
+    } finally {
+      setUpdating(false);
+    }
+  }
+
+  useEffect(() => {
+    fetchVenues();
+    const id = setInterval(fetchVenues, 15 * 60 * 1000);
+    return () => clearInterval(id);
+  }, []);
+
+  function exportJson() {
+    const blob = new Blob([JSON.stringify(venues, null, 2)], { type: "application/json" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = `menuscout_${CITY.toLowerCase()}_${Date.now()}.json`;
+    a.click();
+    URL.revokeObjectURL(url);
+  }
+
+  function handleImportJson(arr: Venue[]) {
+    setVenues(arr);
+  }
+
+  return (
+    <div className="min-h-screen bg-background text-foreground">
+      <TopBar
+        count={filtered.length}
+        onExport={exportJson}
+        onImportClick={() => setImportOpen(true)}
+        onRefresh={fetchVenues}
+        updating={updating}
+        lastUpdated={lastUpdated}
+      />
+      <ImportDialog open={importOpen} onOpenChange={setImportOpen} onImportJson={handleImportJson} />
+      <FilterBar
+        search={search}
+        setSearch={setSearch}
+        weekday={weekday}
+        setWeekday={(v) => { setTodayOnly(false); setWeekday(v); }}
+        category={category}
+        setCategory={setCategory}
+        todayOnly={todayOnly}
+        setTodayOnly={(v) => { setWeekday("Any"); setTodayOnly(v); }}
+        neighborhoods={neighborhoods}
+        selectedNeighborhoods={selectedNeighborhoods}
+        setSelectedNeighborhoods={setSelectedNeighborhoods}
+      />
+      <main className="max-w-6xl mx-auto px-4 py-6">
+        {loadError ? <div className="mb-4 text-xs text-red-500">Failed to auto-load data: {loadError}. Using current dataset.</div> : null}
+        <Tabs defaultValue="list" className="w-full">
+          <TabsList className="grid grid-cols-2 w-full md:w-auto">
+            <TabsTrigger value="list">All Venues ({filtered.length})</TabsTrigger>
+            <TabsTrigger value="highlights">Highlights</TabsTrigger>
+          </TabsList>
+          <TabsContent value="list" className="mt-4">
+            {filtered.length ? (
+              <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+                {filtered.map((v) => (<VenueCard key={v.venue_name} v={v} />))}
+              </div>
+            ) : (
+              <div className="text-sm text-muted-foreground">No results. Try broadening your filters.</div>
+            )}
+          </TabsContent>
+          <TabsContent value="highlights" className="mt-4">
+            <Highlights venues={filtered} />
+          </TabsContent>
+        </Tabs>
+        <section className="mt-10 space-y-3">
+          <h2 className="text-lg font-semibold">Schema Notes</h2>
+          <ul className="text-sm list-disc pl-5 space-y-1 text-muted-foreground">
+            <li>Every deal should include source_url and source_snippet. Do not guess.</li>
+            <li>Normalize weekday and time to 24h format. Use null if unknown and adjust confidence.</li>
+            <li>Respect robots and terms. If disallowed, set scrape_allowed to false and add a note.</li>
+            <li>Mark anything older than N months as stale and set confidence low unless reverified.</li>
+          </ul>
+        </section>
+      </main>
+    </div>
+  );
+}
