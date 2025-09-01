@@ -1,0 +1,296 @@
+[
+    {
+      "venue_name": "Sabor Latin Street Grill — NoDa",
+      "categories": ["mexican","tacos","happy_hour","drinks"],
+      "address": {
+        "street": "3205 N Davidson St Unit 105",
+        "city": "Charlotte",
+        "region": "NC",
+        "postal_code": "28205",
+        "lat": null,
+        "lng": null
+      },
+      "contact": {
+        "phone": "980-207-3589",
+        "website": "https://www.saborlatingrill.com/",
+        "instagram": "",
+        "facebook": "https://www.facebook.com/sabornoda/",
+        "google_maps": ""
+      },
+      "hours": [
+        { "weekday": "Sunday", "open": "11:00", "close": "22:00" },
+        { "weekday": "Monday", "open": "11:00", "close": "22:00" },
+        { "weekday": "Tuesday", "open": "11:00", "close": "22:00" },
+        { "weekday": "Wednesday", "open": "11:00", "close": "22:00" },
+        { "weekday": "Thursday", "open": "11:00", "close": "22:00" },
+        { "weekday": "Friday", "open": "11:00", "close": "24:00" },
+        { "weekday": "Saturday", "open": "11:00", "close": "24:00" }
+      ],
+      "deals": [
+        {
+          "title": "Taco Tuesday — Taco Happy Hour",
+          "description": "$1.49 Tacos Autenticos, $2.00 Tacos Americanos, $3.00 Chimi shrimp",
+          "weekday": "Tuesday",
+          "start_time": null,
+          "end_time": null,
+          "price": 1.49,
+          "currency": "USD",
+          "restrictions": [],
+          "start_date": null,
+          "end_date": null,
+          "category": ["tacos","food","happy_hour"],
+          "confidence": "high",
+          "source_snippet": "Taco Tuesdays - Taco Happy Hour. $1.49 Taco Autenticos, $2.00 Tacos Americanos, $3.00 Chimi shrimp.",
+          "source_url": "https://www.saborlatingrill.com/menu/daily-specials/",
+          "scrape_allowed": null
+        },
+        {
+          "title": "Kids Wednesday",
+          "description": "Kids eat 99¢ (under 12 only)",
+          "weekday": "Wednesday",
+          "start_time": null,
+          "end_time": null,
+          "price": 0.99,
+          "currency": "USD",
+          "restrictions": ["children under 12 only"],
+          "start_date": null,
+          "end_date": null,
+          "category": ["food","kids"],
+          "confidence": "high",
+          "source_snippet": "Wednesdays - Kids Eat 99¢ . Children under 12 only.",
+          "source_url": "https://www.saborlatingrill.com/menu/daily-specials/",
+          "scrape_allowed": null
+        }
+      ],
+      "menu_items": [],
+      "notes": [],
+      "last_verified_at": "2025-08-31"
+    },
+    {
+      "venue_name": "Cabo Fish Taco — NoDa",
+      "categories": ["mexican","tacos","drinks","happy_hour"],
+      "address": {
+        "street": "3201 N Davidson St",
+        "city": "Charlotte",
+        "region": "NC",
+        "postal_code": "28205",
+        "lat": null,
+        "lng": null
+      },
+      "contact": {
+        "phone": "704-332-8868",
+        "website": "https://www.cabofishtaco.com/charlotte/",
+        "instagram": "https://www.instagram.com/cabofishtaconoda/",
+        "facebook": "https://www.facebook.com/CaboFishTacoNoda/",
+        "google_maps": ""
+      },
+      "hours": [
+        { "weekday": "Sunday", "open": "11:00", "close": "22:00" },
+        { "weekday": "Monday", "open": "11:00", "close": "22:00" },
+        { "weekday": "Tuesday", "open": "11:00", "close": "22:00" },
+        { "weekday": "Wednesday", "open": "11:00", "close": "22:00" },
+        { "weekday": "Thursday", "open": "11:00", "close": "22:00" },
+        { "weekday": "Friday", "open": "11:00", "close": "23:00" },
+        { "weekday": "Saturday", "open": "11:00", "close": "23:00" }
+      ],
+      "deals": [
+        {
+          "title": "Taco Tuesday",
+          "description": "$5 tacos, $2 off tequila shots, $5 Dos Equis drafts",
+          "weekday": "Tuesday",
+          "start_time": "11:00",
+          "end_time": "22:00",
+          "price": 5.00,
+          "currency": "USD",
+          "restrictions": [],
+          "start_date": null,
+          "end_date": null,
+          "category": ["tacos","drinks","happy_hour","food"],
+          "confidence": "medium",
+          "source_snippet": "Taco Tuesday at Cabo. $5 tacos, $2 off tequila shots, and $5 Dos Equis drafts. All day from 11AM to 10PM.",
+          "source_url": "https://www.instagram.com/cabofishtaconoda/",
+          "scrape_allowed": null
+        }
+      ],
+      "menu_items": [],
+      "notes": [],
+      "last_verified_at": "2025-08-31"
+    },
+    {
+      "venue_name": "Que Onda — Plaza Midwood",
+      "categories": ["mexican","tacos","drinks"],
+      "address": {
+        "street": "1518 Central Ave",
+        "city": "Charlotte",
+        "region": "NC",
+        "postal_code": "28205",
+        "lat": null,
+        "lng": null
+      },
+      "contact": {
+        "phone": "704-910-0786",
+        "website": "https://queondatacos.com/",
+        "instagram": "",
+        "facebook": "https://www.facebook.com/eatqueonda/",
+        "google_maps": ""
+      },
+      "hours": [],
+      "deals": [
+        {
+          "title": "Taco Tuesday",
+          "description": "$2 street tacos (location-specific)",
+          "weekday": "Tuesday",
+          "start_time": null,
+          "end_time": null,
+          "price": 2.00,
+          "currency": "USD",
+          "restrictions": ["check location; offer varies by store"],
+          "start_date": null,
+          "end_date": null,
+          "category": ["tacos","food"],
+          "confidence": "medium",
+          "source_snippet": "Taco Tuesday is here! Matthews & University locations: $2 street tacos. Uptown, Highland Creek, & Plaza Midwood ...",
+          "source_url": "https://www.facebook.com/eatqueonda/",
+          "scrape_allowed": null
+        }
+      ],
+      "menu_items": [],
+      "notes": ["needs_follow_up: confirm Plaza Midwood pricing if different on the day"],
+      "last_verified_at": "2025-08-31"
+    },
+    {
+      "venue_name": "The Eagle — South End",
+      "categories": ["happy_hour","drinks","american","fried_chicken"],
+      "address": {
+        "street": "2120 South Blvd Suite 1",
+        "city": "Charlotte",
+        "region": "NC",
+        "postal_code": "28203",
+        "lat": null,
+        "lng": null
+      },
+      "contact": {
+        "phone": "704-780-1570",
+        "website": "https://www.eaglerestaurant.com/",
+        "instagram": "https://www.instagram.com/theeaglecharlotte/",
+        "facebook": "https://www.facebook.com/TheEagleCharlotte/",
+        "google_maps": ""
+      },
+      "hours": [
+        { "weekday": "Monday", "open": "11:00", "close": "22:00" },
+        { "weekday": "Tuesday", "open": "11:00", "close": "22:00" },
+        { "weekday": "Wednesday", "open": "11:00", "close": "22:00" },
+        { "weekday": "Thursday", "open": "11:00", "close": "22:00" },
+        { "weekday": "Friday", "open": "11:00", "close": "23:00" },
+        { "weekday": "Saturday", "open": "11:00", "close": "23:00" },
+        { "weekday": "Sunday", "open": "11:00", "close": "22:00" }
+      ],
+      "deals": [
+        {
+          "title": "Happy Hour",
+          "description": "1/2 priced snacks + $5 Miller High Life + $10 Blackberry Lemonade + $5 shot (as posted)",
+          "weekday": "Monday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "price": null,
+          "currency": "USD",
+          "restrictions": [],
+          "start_date": null,
+          "end_date": null,
+          "category": ["happy_hour","drinks","food"],
+          "confidence": "high",
+          "source_snippet": "Join us Monday–Friday from 4pm–6pm for Happy Hour… 1/2 Priced Snacks $5 Miller High Life $10 Blackberry Lemonade $5 Shot…",
+          "source_url": "https://www.facebook.com/TheEagleCharlotte/posts/1213617640783894/",
+          "scrape_allowed": null
+        },
+        {
+          "title": "Happy Hour",
+          "description": "Same details apply, recurring Mon–Fri",
+          "weekday": "Tuesday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "price": null,
+          "currency": "USD",
+          "restrictions": [],
+          "start_date": null,
+          "end_date": null,
+          "category": ["happy_hour","drinks","food"],
+          "confidence": "high",
+          "source_snippet": "Happy Hour Monday–Friday from 4pm–6pm… 1/2 Priced Snacks…",
+          "source_url": "https://www.instagram.com/p/DN3mRr6XgAr/",
+          "scrape_allowed": null
+        }
+      ],
+      "menu_items": [],
+      "notes": [],
+      "last_verified_at": "2025-08-31"
+    },
+    {
+      "venue_name": "Pilot Brewing — Plaza Midwood",
+      "categories": ["brewery","happy_hour","drinks"],
+      "address": {
+        "street": "1331 Central Ave Ste 104",
+        "city": "Charlotte",
+        "region": "NC",
+        "postal_code": "28205",
+        "lat": null,
+        "lng": null
+      },
+      "contact": {
+        "phone": "704-802-9260",
+        "website": "https://www.pilotbrewing.us/",
+        "instagram": "https://www.instagram.com/pilotbrewing/",
+        "facebook": "https://www.facebook.com/PilotBrewing/",
+        "google_maps": ""
+      },
+      "hours": [
+        { "weekday": "Sunday", "open": "11:00", "close": "21:00" },
+        { "weekday": "Monday", "open": "14:00", "close": "21:00" },
+        { "weekday": "Tuesday", "open": "14:00", "close": "21:00" },
+        { "weekday": "Wednesday", "open": "14:00", "close": "21:00" },
+        { "weekday": "Thursday", "open": "14:00", "close": "22:00" },
+        { "weekday": "Friday", "open": "14:00", "close": "22:00" },
+        { "weekday": "Saturday", "open": "11:00", "close": "22:00" }
+      ],
+      "deals": [
+        {
+          "title": "Teacher Appreciation Monday",
+          "description": "20% off in-house tab (includes merch). Does not apply to to-go items.",
+          "weekday": "Monday",
+          "start_time": "14:00",
+          "end_time": "21:00",
+          "price": null,
+          "currency": "USD",
+          "restrictions": ["teachers/faculty/staff only","in-house only","excludes to-go"],
+          "start_date": null,
+          "end_date": null,
+          "category": ["happy_hour","drinks"],
+          "confidence": "high",
+          "source_snippet": "Join us on Mondays and receive a 20% discount off your In-House Tab… Offer valid every Monday from 2-9pm. (Does not apply to to-go items).",
+          "source_url": "https://www.pilotbrewing.us/events-1/teacher-appreciation-night-every-monday-2025-09-01-14-00",
+          "scrape_allowed": null
+        },
+        {
+          "title": "Wednesday Draft Special",
+          "description": "$3 select draughts (event series)",
+          "weekday": "Wednesday",
+          "start_time": null,
+          "end_time": null,
+          "price": 3.00,
+          "currency": "USD",
+          "restrictions": ["select draughts only"],
+          "start_date": null,
+          "end_date": null,
+          "category": ["drinks","happy_hour"],
+          "confidence": "medium",
+          "source_snippet": "$3 Select Draughts Every Wednesday!",
+          "source_url": "https://www.pilotbrewing.us/events",
+          "scrape_allowed": null
+        }
+      ],
+      "menu_items": [],
+      "notes": [],
+      "last_verified_at": "2025-08-31"
+    }
+  ]
+  
