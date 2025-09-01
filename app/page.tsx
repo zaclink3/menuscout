@@ -91,7 +91,7 @@ const CATEGORY_TAXONOMY = [
   "dessert",
 ];
 
-function valueScore(deal: Deal) {
+function valueScore(deal: { price?: number | null; confidence?: "high" | "medium" | "low" }) {
   const conf = deal?.confidence === "high" ? 1 : deal?.confidence === "medium" ? 0.7 : 0.4;
   const base = typeof deal?.price === "number" && (deal.price ?? 0) > 0 ? 1 / (deal.price as number) : 0.05;
   return +(base * conf).toFixed(5);
