@@ -60,6 +60,16 @@ interface Contact {
   google_maps?: string;
 }
 
+interface MenuItem {
+  name: string;
+  price?: number | null;
+  currency?: string | null;
+  options?: string[];
+  tags?: string[];
+  source_snippet?: string;
+  source_url?: string;
+}
+
 interface Venue {
   venue_name: string;
   categories?: string[];
@@ -67,7 +77,7 @@ interface Venue {
   contact?: Contact;
   hours?: { weekday: string; open: string; close: string }[];
   deals?: Deal[];
-  menu_items?: any[];
+  menu_items?: MenuItem[];
   notes?: string[];
   last_verified_at?: string;
 }
