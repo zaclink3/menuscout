@@ -741,12 +741,30 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Friday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Find a TGI Fridays near me Use my location Enter city, state, or postal code SEARCH List View Map View",
+        "source_url": "https://locations.tgifridays.com/nc/charlotte/12811-s-tryon-st.html",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.807Z"
+    "last_verified_at": "2025-09-07T16:41:10.756Z"
   },
   {
     "venue_name": "Fuel Pizza",
@@ -1413,12 +1431,47 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "04:00",
+        "end_time": "04:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Jack in the Box OPEN TODAY UNTIL 04:00 A.M. 4505 Randolph Rd Charlotte, NC 28211 (704) 362-1709 View Menu Get Directions Order NOW Download APP Download APP Available at this Location DRIVE-THRU HOURS Today 04:00 AM to 04:00 AM Monday 04:00",
+        "source_url": "https://locations.jackinthebox.com/us/nc/charlotte/4505-randolph-rd",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "08:00",
+        "end_time": "01:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Jack in the Box OPEN TODAY UNTIL 01:00 A.M. 7806 Forest Point Blvd Charlotte, NC 28217 (704) 527-1681 View Menu Get Directions Order NOW Download APP Download APP Available at this Location DRIVE-THRU HOURS Today 08:00 AM to 01:00 AM Monday",
+        "source_url": "https://locations.jackinthebox.com/us/nc/charlotte/7806-forest-point-blvd",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.807Z"
+    "last_verified_at": "2025-09-07T16:41:10.753Z"
   },
   {
     "venue_name": "YAMA",
@@ -1469,12 +1522,33 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Thursday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "low",
+        "source_snippet": "review by - Yelp David K: Not busy on a Thursday evening but made the first visit even better. The food was good, loved the bratwurst and sauerkraut, plus glad not to have to rely on a food truck. The beer is great...",
+        "source_url": "https://gilde1546.com/",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.807Z"
+    "last_verified_at": "2025-09-07T16:41:10.752Z"
   },
   {
     "venue_name": "Mr. G's",
@@ -2029,12 +2103,87 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Thursday",
+        "start_time": "08:00",
+        "end_time": "22:00",
+        "price": 12,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "SpecialsWednesday August 13th Half Priced Select Wine Bottles 08:00 AM - 10:00 PM Thursday August 14th Live Music and $12 Flight Night! 07:00 PM - 09:00 PM Sunday August 17th $5 Mimosas! 10:00 AM - 10:00 PM",
+        "source_url": "https://www.rosieswinegarden.com/specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Wednesday",
+        "start_time": "08:00",
+        "end_time": "22:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "low",
+        "source_snippet": "Wednesday August 13th Half Priced Select Wine Bottles 08:00 AM - 10:00 PM",
+        "source_url": "https://www.rosieswinegarden.com/specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Wednesday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Wednesday August 13th",
+        "source_url": "https://www.rosieswinegarden.com/specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Thursday",
+        "start_time": "19:00",
+        "end_time": "21:00",
+        "price": 12,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Thursday August 14th Live Music and $12 Flight Night! 07:00 PM - 09:00 PM",
+        "source_url": "https://www.rosieswinegarden.com/specials",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.807Z"
+    "last_verified_at": "2025-09-07T16:41:10.756Z"
   },
   {
     "venue_name": "Supperland",
@@ -2421,12 +2570,32 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 5,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "pizza"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Domino's RewardsJoin Domino's Rewards and get points for every order of $5 or more. Redeem your points for free pizza, bread, drinks, and more exclusive deals and discounts.Earn Free Domino’s",
+        "source_url": "https://pizza.dominos.com/north-carolina/charlotte/3223-the-plaza",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.807Z"
+    "last_verified_at": "2025-09-07T16:41:10.749Z"
   },
   {
     "venue_name": "Starlight on 22nd",
@@ -3597,12 +3766,33 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": "00:00",
+        "end_time": "02:00",
+        "price": 3,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "tacos",
+          "pizza"
+        ],
+        "confidence": "low",
+        "source_snippet": "OpenOpen til 2:00AMTaco Bell 8812 Albemarle Rd. Charlotte, NC 28227(704) 569-1535Drive-ThruOpen LateDeliveryStart Your OrderGet DirectionsDownload The AppHOURS OF OPERATIONDrive-Thru HoursDay of the WeekHoursmonday9:00 AM - 2:00 AMtuesday9:",
+        "source_url": "https://locations.tacobell.com/nc/charlotte/8812-albemarle-rd-.html",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.807Z"
+    "last_verified_at": "2025-09-07T16:41:10.756Z"
   },
   {
     "venue_name": "Waffle House",
@@ -4969,12 +5159,30 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Friday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "TGI Fridays Charlotte, NC TGI Fridays - Store details for your local Restaurant & Bar in Charlotte, NC Coming Soon! ORDER NOW",
+        "source_url": "https://locations.tgifridays.com/nc/charlotte/6840-northlake-mall-dr.html",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.808Z"
+    "last_verified_at": "2025-09-07T16:41:10.757Z"
   },
   {
     "venue_name": "P.F. Chang's",
@@ -5137,12 +5345,33 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": "00:00",
+        "end_time": "02:00",
+        "price": 3,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "tacos",
+          "pizza"
+        ],
+        "confidence": "low",
+        "source_snippet": "OpenOpen til 2:00AMTaco Bell 1800 E Woodlawn Rd Charlotte, NC 28209(704) 522-7604Drive-ThruOpen LateDeliveryStart Your OrderGet DirectionsDownload The AppHOURS OF OPERATIONDrive-Thru HoursDay of the WeekHoursmonday9:00 AM - 2:00 AMtuesday9:",
+        "source_url": "https://locations.tacobell.com/nc/charlotte/1800-e-woodlawn-rd.html",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.808Z"
+    "last_verified_at": "2025-09-07T16:41:10.756Z"
   },
   {
     "venue_name": "Angry Ale's",
@@ -5445,12 +5674,30 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 6,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "medium",
+        "source_snippet": "$6Meal DealIt's the biggest deal in breakfast! For a limited time, enjoy a medium Iced or Hot Coffee, a Bacon, Egg & Cheese, and Hash Browns for $6. Terms & excl. apply.Order NowDunkin'Rewards®The Fun Starts Here!Join Dunkin' Rewards to enj",
+        "source_url": "https://locations.dunkindonuts.com/en/nc/charlotte/1831-south-blvd/337361",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.808Z"
+    "last_verified_at": "2025-09-07T16:41:10.749Z"
   },
   {
     "venue_name": "Sandwich Max",
@@ -5613,12 +5860,30 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "MONDAY",
+        "start_time": "10:00",
+        "end_time": "22:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "phone(704) 588-3117(704) 588-3117CateringDrive ThruWiFiGift CardsDeliveryClick to expand or collapse content 10:00 AM - 10:00 PM 10:00 AM - 10:00 PM 10:00 AM - 10:00 PM 10:00 AM - 10:00 PM 10:00 AM - 10:00 PM 10:00 AM - 10:00 PM 10:00 AM -",
+        "source_url": "https://locations.kfc.com/nc/charlotte/9010-south-tryon-street",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.808Z"
+    "last_verified_at": "2025-09-07T16:41:10.754Z"
   },
   {
     "venue_name": "Dunkin'",
@@ -5641,12 +5906,30 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 6,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "medium",
+        "source_snippet": "$6Meal DealIt's the biggest deal in breakfast! For a limited time, enjoy a medium Iced or Hot Coffee, a Bacon, Egg & Cheese, and Hash Browns for $6. Terms & excl. apply.Order NowDunkin'Rewards®The Fun Starts Here!Join Dunkin' Rewards to enj",
+        "source_url": "https://locations.dunkindonuts.com/en/nc/charlotte/9033-s-tryon-st/337709",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.808Z"
+    "last_verified_at": "2025-09-07T16:41:10.750Z"
   },
   {
     "venue_name": "Burger King",
@@ -5893,12 +6176,33 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": "00:00",
+        "end_time": "03:00",
+        "price": 3,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "tacos",
+          "pizza"
+        ],
+        "confidence": "low",
+        "source_snippet": "OpenOpen til 3:00AMTaco Bell 2405 South Blvd Charlotte, NC 28203(704) 525-3661Drive-ThruOpen LateDeliveryStart Your OrderGet DirectionsDownload The AppHOURS OF OPERATIONDrive-Thru HoursDay of the WeekHoursmonday9:00 AM - 3:00 AMtuesday9:00",
+        "source_url": "https://locations.tacobell.com/nc/charlotte/2405-south-blvd.html",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.808Z"
+    "last_verified_at": "2025-09-07T16:41:10.756Z"
   },
   {
     "venue_name": "Primo Tuscan Grille",
@@ -6733,12 +7037,33 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": "00:00",
+        "end_time": "04:00",
+        "price": 3,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "tacos",
+          "pizza"
+        ],
+        "confidence": "low",
+        "source_snippet": "OpenOpen til 4:00AMTaco Bell 13121 South Tryon St. Charlotte, NC 28278(704) 588-5605Drive-ThruOpen LateDeliveryBreakfastStart Your OrderGet DirectionsDownload The AppHOURS OF OPERATIONDrive-Thru HoursDay of the WeekHoursmonday7:00 AM - 4:00",
+        "source_url": "https://locations.tacobell.com/nc/charlotte/13121-south-tryon-st-.html",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.808Z"
+    "last_verified_at": "2025-09-07T16:41:10.756Z"
   },
   {
     "venue_name": "Nothing but Noodles",
@@ -7013,12 +7338,32 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 2,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "brunch"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Got a group – large or small? We specialize in having great deals and plenty of bagel flavors so you have a little something for everyone – from kids to parents, or friends to coworkers. Our Baker's Dozen with Shmear is a fresh-from-the- ov",
+        "source_url": "https://locations.einsteinbros.com/us/nc/charlotte/13736-conlan-cir",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.808Z"
+    "last_verified_at": "2025-09-07T16:41:10.752Z"
   },
   {
     "venue_name": "Stone Mountain Grill",
@@ -7433,12 +7778,33 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": "00:00",
+        "end_time": "12:00",
+        "price": 3,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "tacos",
+          "pizza"
+        ],
+        "confidence": "low",
+        "source_snippet": "OpenOpen 24 HoursTaco Bell 9015 S Tryon St Charlotte, NC 28273(704) 588-6844Drive-ThruOpen LateDeliveryBreakfastStart Your OrderGet DirectionsDownload The AppHOURS OF OPERATIONDrive-Thru HoursDay of the WeekHoursmonday12:00 AM - 12:00 AMtue",
+        "source_url": "https://locations.tacobell.com/nc/charlotte/9015-s-tryon-st.html",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.808Z"
+    "last_verified_at": "2025-09-07T16:41:10.756Z"
   },
   {
     "venue_name": "Chicken King",
@@ -8133,12 +8499,30 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Sunday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Restaurant CalendarUpcoming FeaturesView Entire MonthToday - Sunday, September 07Flavor of the Day:Caramel CashewAdd to CalendarCulver's of Charlotte, NC - University City Blvd Sunday, September 07Soups: George's® Chili, George's® Chili Sup",
+        "source_url": "https://www.culvers.com/restaurants/charlotte-nc-university-city-blvd",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.808Z"
+    "last_verified_at": "2025-09-07T16:41:10.748Z"
   },
   {
     "venue_name": "Golden Corral",
@@ -8329,12 +8713,30 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 6,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "medium",
+        "source_snippet": "$6Meal DealIt's the biggest deal in breakfast! For a limited time, enjoy a medium Iced or Hot Coffee, a Bacon, Egg & Cheese, and Hash Browns for $6. Terms & excl. apply.Order NowDunkin'Rewards®The Fun Starts Here!Join Dunkin' Rewards to enj",
+        "source_url": "https://locations.dunkindonuts.com/en/nc/charlotte/8509-university-city-blvd/350894",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.808Z"
+    "last_verified_at": "2025-09-07T16:41:10.750Z"
   },
   {
     "venue_name": "Don Pedro Mexican Restaurant",
@@ -8441,12 +8843,72 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": "Sunday",
+        "start_time": "11:00",
+        "end_time": "23:00",
+        "price": 15,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "burgers",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "low",
+        "source_snippet": "Locations / North Carolina / Charlotte / 8700 J. W. Clay Applebee's Charlotte 8700 J. W. Clay, Charlotte, NC 28262 (704) 548-9219 Start Order Get Directions Restaurant Hours Mon 11:00am - 11:00pm Tue 11:00am - 11:00pm Wed 11:00am - 11:00pm",
+        "source_url": "https://restaurants.applebees.com/en-us/nc/charlotte/8700-j.-w.-clay-89023",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Sunday",
+        "start_time": "11:00",
+        "end_time": "23:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Restaurant Hours Mon 11:00am - 11:00pm Tue 11:00am - 11:00pm Wed 11:00am - 11:00pm Thu 11:00am - 11:00pm Fri 11:00am - 11:00pm Sat 11:00am - 11:00pm Sun 11:00am - 11:00pm if(typeof window.hours[\"5533\"] == 'undefined') window.hours[\"5533\"] =",
+        "source_url": "https://restaurants.applebees.com/en-us/nc/charlotte/8700-j.-w.-clay-89023",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 15,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "burgers",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "medium",
+        "source_snippet": "What to Expect at Our Applebee's Restaurant in Charlotte Make Applebee's at 8700 J. W. Clay in Charlotte your neighborhood bar and grill. Whether you're looking for affordable lunch specials with co-workers, or in the mood for a delicious d",
+        "source_url": "https://restaurants.applebees.com/en-us/nc/charlotte/8700-j.-w.-clay-89023",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.808Z"
+    "last_verified_at": "2025-09-07T16:41:10.748Z"
   },
   {
     "venue_name": "Wendy's",
@@ -9029,12 +9491,30 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "MONDAY",
+        "start_time": "10:00",
+        "end_time": "23:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "phone(704) 596-3633(704) 596-3633CateringDrive ThruWiFiGift CardsDeliveryClick to expand or collapse content 10:00 AM - 11:00 PM 10:00 AM - 11:00 PM 10:00 AM - 11:00 PM 10:00 AM - 11:00 PM 10:00 AM - 11:00 PM 10:00 AM - 11:00 PM 10:00 AM -",
+        "source_url": "https://locations.kfc.com/nc/charlotte/6320-west-sugar-creek-road",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.808Z"
+    "last_verified_at": "2025-09-07T16:41:10.754Z"
   },
   {
     "venue_name": "McDonald's",
@@ -9785,12 +10265,47 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "MONDAY",
+        "start_time": "04:00",
+        "end_time": "00:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "phone(704) 440-0001(704) 440-0001Drive ThruWiFiGift CardsDeliveryClick to expand or collapse content 10:00 AM - 12:00 AM 10:00 AM - 12:00 AM 10:00 AM - 12:00 AM 10:00 AM - 12:00 AM 10:00 AM - 1:00 AM 10:00 AM - 1:00 AM 10:00 AM - 12:00 AM{\"",
+        "source_url": "https://locations.kfc.com/nc/charlotte/2639-freedom-drive",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "MONDAY",
+        "start_time": "10:00",
+        "end_time": "00:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Click to expand or collapse content 10:00 AM - 12:00 AM 10:00 AM - 12:00 AM 10:00 AM - 12:00 AM 10:00 AM - 12:00 AM 10:00 AM - 1:00 AM 10:00 AM - 1:00 AM 10:00 AM - 12:00 AM{\"collapseDays\":null,\"dayOfWeekMap\":null,\"disableOpenUntil\":null,\"d",
+        "source_url": "https://locations.kfc.com/nc/charlotte/2639-freedom-drive",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.808Z"
+    "last_verified_at": "2025-09-07T16:41:10.754Z"
   },
   {
     "venue_name": "South 21 Jr Family Restaurant",
@@ -10317,12 +10832,30 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "MONDAY",
+        "start_time": "05:00",
+        "end_time": "14:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "phone(704) 521-1453(704) 521-1453CateringDrive ThruWiFiGift CardsDeliveryClick to expand or collapse content 10:00 AM - 10:00 PM 10:00 AM - 10:00 PM 10:00 AM - 10:00 PM 10:00 AM - 10:00 PM 10:00 AM - 10:00 PM 10:00 AM - 10:00 PM 10:00 AM -",
+        "source_url": "https://locations.kfc.com/nc/charlotte/321-east-woodlawn-road",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.808Z"
+    "last_verified_at": "2025-09-07T16:41:10.754Z"
   },
   {
     "venue_name": "The Penguin",
@@ -10597,12 +11130,30 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Friday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "TGI Fridays Charlotte, NC TGI Fridays - Store details for your local Restaurant & Bar in Charlotte, NC Coming Soon! ORDER NOW",
+        "source_url": "https://locations.tgifridays.com/nc/charlotte/409-w-wt-harris-blvd.html",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.808Z"
+    "last_verified_at": "2025-09-07T16:41:10.757Z"
   },
   {
     "venue_name": "Taco Mac",
@@ -10821,12 +11372,47 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Making Mondays Better Half Price Large Chicken Cheesesteaks Every Monday! Order Now",
+        "source_url": "https://cheatscheesesteaks.com/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Tuesday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "medium",
+        "source_snippet": "🏈 Who’s ready for football season and Cheats It’s Tuesday which means we have a great deal! N Happy Labor Day! We’re open until 9 PM—and it This long holiday weekend let Cheat’s do all the Cheat’s on Instagram",
+        "source_url": "https://cheatscheesesteaks.com/",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.808Z"
+    "last_verified_at": "2025-09-07T16:41:10.748Z"
   },
   {
     "venue_name": "YAFO Kitchen",
@@ -11969,12 +12555,30 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 6,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "medium",
+        "source_snippet": "$6Meal DealIt's the biggest deal in breakfast! For a limited time, enjoy a medium Iced or Hot Coffee, a Bacon, Egg & Cheese, and Hash Browns for $6. Terms & excl. apply.Order NowDunkin'Rewards®The Fun Starts Here!Join Dunkin' Rewards to enj",
+        "source_url": "https://locations.dunkindonuts.com/en/nc/charlotte/9120-harris-corners-pky/351990",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.808Z"
+    "last_verified_at": "2025-09-07T16:41:10.752Z"
   },
   {
     "venue_name": "Jimmy John's",
@@ -11997,12 +12601,30 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "10:00",
+        "end_time": "22:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Home • North Carolina • Charlotte • About 9130 Harris Corners Pkwy Charlotte, NC 28269 (704) 494-0004 STORE ID: 2154 Order Now Get Directions Hours Monday 10:30am - 10:00pm Tuesday 10:30am - 10:00pm Wednesday 10:30am - 10:00pm Thursday 10:3",
+        "source_url": "https://locations.jimmyjohns.com/nc/charlotte/sandwiches-2154.html",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.808Z"
+    "last_verified_at": "2025-09-07T16:41:10.753Z"
   },
   {
     "venue_name": "Chick-fil-A",
@@ -12193,12 +12815,30 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "MONDAY",
+        "start_time": "00:00",
+        "end_time": "09:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Hours{\"collapseDays\":null,\"dayOfWeekMap\":null,\"disableOpenUntil\":null,\"disableTodayFirst\":null,\"hideSchema\":null,\"highlightToday\":true,\"highlightTodayBackground\":null,\"hours\":[{\"day\":\"MONDAY\",\"intervals\":[{\"end\":2100,\"start\":1000}],\"isClose",
+        "source_url": "https://locations.moes.com/nc/charlotte/1500-east-blvd",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.808Z"
+    "last_verified_at": "2025-09-07T16:41:10.755Z"
   },
   {
     "venue_name": "Bad Daddy's",
@@ -12613,12 +13253,30 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 6,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "medium",
+        "source_snippet": "$6Meal DealIt's the biggest deal in breakfast! For a limited time, enjoy a medium Iced or Hot Coffee, a Bacon, Egg & Cheese, and Hash Browns for $6. Terms & excl. apply.Order NowDunkin'Rewards®The Fun Starts Here!Join Dunkin' Rewards to enj",
+        "source_url": "https://locations.dunkindonuts.com/en/nc/charlotte/5133-south-blvd/341168",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.808Z"
+    "last_verified_at": "2025-09-07T16:41:10.752Z"
   },
   {
     "venue_name": "Panda Express",
@@ -12977,12 +13635,30 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "04:00",
+        "end_time": "04:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Jack in the Box OPEN TODAY UNTIL 04:00 A.M. 220 N Hoskins Rd Charlotte, NC 28216 (704) 392-6166 View Menu Get Directions Order NOW Download APP Download APP Available at this Location DRIVE-THRU HOURS Today 04:00 AM to 04:00 AM Monday 04:00",
+        "source_url": "https://locations.jackinthebox.com/us/nc/charlotte/220-n-hoskins-rd",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.808Z"
+    "last_verified_at": "2025-09-07T16:41:10.753Z"
   },
   {
     "venue_name": "Juke Box Diner",
@@ -13593,12 +14269,30 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "10:00",
+        "end_time": "23:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Home • North Carolina • Charlotte • About 10032 University City Blvd Suite A Charlotte, NC 28213 (704) 503-9800 STORE ID: 3225 Order Now Get Directions Hours Monday 10:30am - 11:00pm Tuesday 10:30am - 11:00pm Wednesday 10:30am - 11:00pm Thu",
+        "source_url": "https://locations.jimmyjohns.com/nc/charlotte/sandwiches-3225.html",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.809Z"
+    "last_verified_at": "2025-09-07T16:41:10.753Z"
   },
   {
     "venue_name": "South 21 Restaurant (Brookshire)",
@@ -13761,12 +14455,33 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "15:00",
+        "end_time": "18:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "All News » News » Join Us for Happy Hour – CT, FL, MD, NH, PA, SC, VA <img decoding=\"async\" width=\"493\" height=\"500\" src=\"https://burtonsgrill.com/wp-content/uploads/2023/10/Burtons-Grill-B-Logo.png\" alt class=\"wp-image-2834\" style=\"aspect-",
+        "source_url": "https://burtonsgrill.com/happyhour",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.809Z"
+    "last_verified_at": "2025-09-07T16:41:10.748Z"
   },
   {
     "venue_name": "Jack's",
@@ -14069,12 +14784,30 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "04:00",
+        "end_time": "04:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Jack in the Box OPEN TODAY UNTIL 04:00 A.M. 10121 N Tryon St Charlotte, NC 28262 (704) 503-6882 View Menu Get Directions Order NOW Download APP Download APP Available at this Location DRIVE-THRU HOURS Today 04:00 AM to 04:00 AM Monday 04:00",
+        "source_url": "https://locations.jackinthebox.com/us/nc/charlotte/10121-n-tryon-st",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.809Z"
+    "last_verified_at": "2025-09-07T16:41:10.753Z"
   },
   {
     "venue_name": "Boston Market",
@@ -16841,12 +17574,47 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "03:00",
+        "end_time": "21:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Home • North Carolina • Charlotte • About 1605 Galleria Blvd. Charlotte, NC 28270 (704) 321-2100 STORE ID: 878 Order Now Get Directions Hours Monday 10:30am - 9:00pm Tuesday 10:30am - 9:00pm Wednesday 10:30am - 9:00pm Thursday 10:30am - 9:0",
+        "source_url": "https://locations.jimmyjohns.com/nc/charlotte/sandwiches-878.html",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "10:00",
+        "end_time": "21:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Hours Monday 10:30am - 9:00pm Tuesday 10:30am - 9:00pm Wednesday 10:30am - 9:00pm Thursday 10:30am - 9:00pm Friday 10:30am - 9:00pm Saturday 10:30am - 9:00pm Sunday 10:30am - 9:00pm if(typeof hours[\"1203\"] == 'undefined') hours[\"1203\"] = {}",
+        "source_url": "https://locations.jimmyjohns.com/nc/charlotte/sandwiches-878.html",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.809Z"
+    "last_verified_at": "2025-09-07T16:41:10.754Z"
   },
   {
     "venue_name": "Tony's Pizza",
@@ -17597,12 +18365,30 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "MONDAY",
+        "start_time": "00:00",
+        "end_time": "07:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Hours{\"collapseDays\":null,\"dayOfWeekMap\":null,\"disableOpenUntil\":null,\"disableTodayFirst\":null,\"hideSchema\":null,\"highlightToday\":true,\"highlightTodayBackground\":null,\"hours\":[{\"day\":\"MONDAY\",\"intervals\":[{\"end\":1900,\"start\":800}],\"isClosed",
+        "source_url": "https://locations.jamba.com/nc/charlotte/5501-josh-birmingham-pkwy",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.810Z"
+    "last_verified_at": "2025-09-07T16:41:10.753Z"
   },
   {
     "venue_name": "Osteria LuCa",
@@ -18465,12 +19251,32 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 5,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "pizza"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Domino's RewardsJoin Domino's Rewards and get points for every order of $5 or more. Redeem your points for free pizza, bread, drinks, and more exclusive deals and discounts.Earn Free Domino’s",
+        "source_url": "https://pizza.dominos.com/north-carolina/charlotte/8510-park-rd",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.810Z"
+    "last_verified_at": "2025-09-07T16:41:10.749Z"
   },
   {
     "venue_name": "Wolfman Pizza",
@@ -19501,12 +20307,32 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 5,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "pizza"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Domino's RewardsJoin Domino's Rewards and get points for every order of $5 or more. Redeem your points for free pizza, bread, drinks, and more exclusive deals and discounts.Earn Free Domino’s",
+        "source_url": "https://pizza.dominos.com/north-carolina/charlotte/7211-e-independence-blvd-ste-j",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.810Z"
+    "last_verified_at": "2025-09-07T16:41:10.749Z"
   },
   {
     "venue_name": "Jersey Mike's Subs",
@@ -20033,12 +20859,30 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "10:00",
+        "end_time": "21:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Home • North Carolina • Charlotte • About 3014 Driwood Ct. Charlotte, NC 28269 (704) 717-7590 STORE ID: 987 Order Now Get Directions Hours Monday 10:30am - 9:00pm Tuesday 10:30am - 9:00pm Wednesday 10:30am - 9:00pm Thursday 10:30am - 9:00pm",
+        "source_url": "https://locations.jimmyjohns.com/nc/charlotte/sandwiches-987.html",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.810Z"
+    "last_verified_at": "2025-09-07T16:41:10.754Z"
   },
   {
     "venue_name": "Toyama Express",
@@ -21713,12 +22557,49 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "MONDAY",
+        "start_time": "10:00",
+        "end_time": "22:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "pizza"
+        ],
+        "confidence": "low",
+        "source_snippet": "MOD Pizza RiverGate 10:30 AM - 10:00 PM 10:30 AM - 10:00 PM 10:30 AM - 10:00 PM 10:30 AM - 11:00 PM 10:30 AM - 11:00 PM 10:30 AM - 11:00 PM 10:30 AM - 10:00 PMORDER NOWVIEW MENURestaurant Info14318 RiverGate ViewSuite 500Charlotte, North Ca",
+        "source_url": "https://locations.modpizza.com/usa/nc/charlotte/14318-rivergate-view",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "MONDAY",
+        "start_time": "03:00",
+        "end_time": "10:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Hours{\"collapseDays\":null,\"dayOfWeekMap\":null,\"disableOpenUntil\":null,\"disableTodayFirst\":null,\"hideSchema\":true,\"highlightToday\":true,\"highlightTodayBackground\":null,\"hours\":[{\"day\":\"MONDAY\",\"intervals\":[{\"end\":2200,\"start\":1030}],\"isClose",
+        "source_url": "https://locations.modpizza.com/usa/nc/charlotte/14318-rivergate-view",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.810Z"
+    "last_verified_at": "2025-09-07T16:41:10.754Z"
   },
   {
     "venue_name": "Chuy's",
@@ -22049,12 +22930,30 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": "00:00",
+        "end_time": "10:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Contact5501 Birmingham Pkwy Concourse A Charlotte, NC 28208 USMain Number(770) 337-7773(770) 337-7773At This Location:BreakfastRestaurant HoursDay of the WeekHoursMonday6:00 AM - 10:00 PMTuesday6:00 AM - 10:00 PMWednesday6:00 AM - 10:00 PMT",
+        "source_url": "https://locations.wendys.com/united-states/nc/charlotte/5501-birmingham-pkwy",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.810Z"
+    "last_verified_at": "2025-09-07T16:41:10.757Z"
   },
   {
     "venue_name": "The Summerhouse",
@@ -22833,12 +23732,32 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 5,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "pizza"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Domino's RewardsJoin Domino's Rewards and get points for every order of $5 or more. Redeem your points for free pizza, bread, drinks, and more exclusive deals and discounts.Earn Free Domino’s",
+        "source_url": "https://pizza.dominos.com/north-carolina/charlotte/9107---a-south-tryon-street",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.810Z"
+    "last_verified_at": "2025-09-07T16:41:10.749Z"
   },
   {
     "venue_name": "Don Pedro Mexican",
@@ -23561,12 +24480,32 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 5,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "pizza"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Domino's RewardsJoin Domino's Rewards and get points for every order of $5 or more. Redeem your points for free pizza, bread, drinks, and more exclusive deals and discounts.Earn Free Domino’s",
+        "source_url": "https://pizza.dominos.com/north-carolina/charlotte/6420-rea-rd",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.810Z"
+    "last_verified_at": "2025-09-07T16:41:10.749Z"
   },
   {
     "venue_name": "Crunch Bistro",
@@ -23673,12 +24612,47 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "00:00",
+        "end_time": "06:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Davis Lake ONLINE ORDER University ONLINE ORDER Enjoy delivery orders up to 9:00 pm Monday-Saturday, and 8:00 pm on Sundays. .highend_68bd431a96612{background-color: #386030;margin-bottom:-50px !important;}.highend_68bd431a96612:before,.hig",
+        "source_url": "https://davincispizza.me/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Davis Lake ONLINE ORDER University ONLINE ORDER Enjoy delivery orders up to 9:00 pm Monday-Saturday, and 8:00 pm on Sundays.",
+        "source_url": "https://davincispizza.me/",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.810Z"
+    "last_verified_at": "2025-09-07T16:41:10.749Z"
   },
   {
     "venue_name": "Honey Baked Ham",
@@ -23869,12 +24843,30 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "MONDAY",
+        "start_time": "00:00",
+        "end_time": "09:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Hours{\"collapseDays\":null,\"dayOfWeekMap\":null,\"disableOpenUntil\":null,\"disableTodayFirst\":null,\"hideSchema\":null,\"highlightToday\":true,\"highlightTodayBackground\":null,\"hours\":[{\"day\":\"MONDAY\",\"intervals\":[{\"end\":2100,\"start\":1000}],\"isClose",
+        "source_url": "https://locations.moes.com/nc/charlotte/8536-university-city-blvd",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.810Z"
+    "last_verified_at": "2025-09-07T16:41:10.755Z"
   },
   {
     "venue_name": "Amalfi's Pizza 'n' Pasta",
@@ -25353,12 +26345,49 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "MONDAY",
+        "start_time": "10:00",
+        "end_time": "22:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "pizza"
+        ],
+        "confidence": "low",
+        "source_snippet": "MOD Pizza Ballantyne 10:30 AM - 10:00 PM 10:30 AM - 10:00 PM 10:30 AM - 10:00 PM 10:30 AM - 11:00 PM 10:30 AM - 11:00 PM 10:30 AM - 11:00 PM 10:30 AM - 10:00 PMORDER NOWVIEW MENURestaurant Info15127 Ballancroft PkwySuite 100Charlotte, North",
+        "source_url": "https://locations.modpizza.com/usa/nc/charlotte/15127-ballancroft-pkwy",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "MONDAY",
+        "start_time": "03:00",
+        "end_time": "10:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Hours{\"collapseDays\":null,\"dayOfWeekMap\":null,\"disableOpenUntil\":null,\"disableTodayFirst\":null,\"hideSchema\":true,\"highlightToday\":true,\"highlightTodayBackground\":null,\"hours\":[{\"day\":\"MONDAY\",\"intervals\":[{\"end\":2200,\"start\":1030}],\"isClose",
+        "source_url": "https://locations.modpizza.com/usa/nc/charlotte/15127-ballancroft-pkwy",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.810Z"
+    "last_verified_at": "2025-09-07T16:41:10.754Z"
   },
   {
     "venue_name": "Potbelly",
@@ -26053,12 +27082,32 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 2,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "brunch"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Got a group – large or small? We specialize in having great deals and plenty of bagel flavors so you have a little something for everyone – from kids to parents, or friends to coworkers. Our Baker's Dozen with Shmear is a fresh-from-the- ov",
+        "source_url": "https://locations.einsteinbros.com/us/nc/charlotte/1501-south-blvd",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.811Z"
+    "last_verified_at": "2025-09-07T16:41:10.752Z"
   },
   {
     "venue_name": "7th Restaurant & Lounge",
@@ -26165,12 +27214,32 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "07:00",
+        "end_time": "22:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "burgers"
+        ],
+        "confidence": "low",
+        "source_snippet": "IHOP Breakfast Restaurants Near You at 230 E Wt Harris Blvd 230 E Wt Harris Blvd Charlotte, NC 28262 (704) 717-9600 Start Order Directions Restaurant Hours Monday 07:00am - 10:00pm Tuesday 07:00am - 10:00pm Wednesday 07:00am - 10:00pm Thurs",
+        "source_url": "https://restaurants.ihop.com/en-us/nc/charlotte/breakfast-230-e-wt-harris-blvd-4500",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.811Z"
+    "last_verified_at": "2025-09-07T16:41:10.752Z"
   },
   {
     "venue_name": "Five Guys",
@@ -27089,12 +28158,32 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "burgers"
+        ],
+        "confidence": "low",
+        "source_snippet": "IHOP Breakfast Restaurants Near You at 16015-A Lancaster Hwy 16015-A Lancaster Hwy Charlotte, NC 28277 (980) 580-0251 Start Order Directions Restaurant Hours Monday 06:00am - 10:00pm Tuesday 06:00am - 10:00pm Wednesday 06:00am - 10:00pm Thu",
+        "source_url": "https://restaurants.ihop.com/en-us/nc/charlotte/breakfast-16015-a-lancaster-hwy-3423",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.811Z"
+    "last_verified_at": "2025-09-07T16:41:10.753Z"
   },
   {
     "venue_name": "Pasta & Provisions",
@@ -27369,12 +28458,32 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "MONDAY",
+        "start_time": "10:00",
+        "end_time": "22:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "pizza"
+        ],
+        "confidence": "low",
+        "source_snippet": "MOD Pizza Berewick 10:30 AM - 10:00 PM 10:30 AM - 10:00 PM 10:30 AM - 10:00 PM 10:30 AM - 11:00 PM 10:30 AM - 11:00 PM 10:30 AM - 11:00 PM 10:30 AM - 10:00 PMORDER NOWVIEW MENURestaurant Info4830 Berewick Town Center DrUnit BCharlotte, Nort",
+        "source_url": "https://locations.modpizza.com/usa/nc/charlotte/4830-berewick-town-center-dr",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.811Z"
+    "last_verified_at": "2025-09-07T16:41:10.755Z"
   },
   {
     "venue_name": "Black Moth Bar",
@@ -29021,12 +30130,30 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "MONDAY",
+        "start_time": "00:00",
+        "end_time": "09:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Hours{\"collapseDays\":null,\"dayOfWeekMap\":null,\"disableOpenUntil\":null,\"disableTodayFirst\":null,\"hideSchema\":null,\"highlightToday\":true,\"highlightTodayBackground\":null,\"hours\":[{\"day\":\"MONDAY\",\"intervals\":[{\"end\":2100,\"start\":1000}],\"isClose",
+        "source_url": "https://locations.jamba.com/nc/charlotte/5110-park-road",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.811Z"
+    "last_verified_at": "2025-09-07T16:41:10.753Z"
   },
   {
     "venue_name": "1900 Mexican",
@@ -29189,12 +30316,32 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Wednesday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "brunch"
+        ],
+        "confidence": "low",
+        "source_snippet": "Reviewsreview by - Yelp Erin D: One of South Ends finest hidden gems. I went on a Wednesday night and the vive was immaculate. Great music playing and even better food. Unless you're prepared to order a lot of food, don't come super hungry",
+        "source_url": "https://www.paraclt.com/",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.811Z"
+    "last_verified_at": "2025-09-07T16:41:10.755Z"
   },
   {
     "venue_name": "Bang Bang Burgers",
@@ -29357,12 +30504,30 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": "13:00",
+        "end_time": "08:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Location11524 North Tryon StreetCharlotte, NC28262HoursSunday: 1:00 PM-8:00 PMMonday: 11:00 AM-9:00 PMTuesday: CLOSEDWednesday: 11:00 AM-9:00 PMThursday: 11:00 AM-9:00 PMFriday: 11:00 AM- 10:00 PMSaturday: 11:00 AM- 10:00 PMFind us on...Fac",
+        "source_url": "https://alphaomegagrill.com/",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.811Z"
+    "last_verified_at": "2025-09-07T16:41:10.740Z"
   },
   {
     "venue_name": "The Bevery",
@@ -30561,12 +31726,33 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Tuesday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "low",
+        "source_snippet": "Events Start stop events carouselTraining TuesdaysTuesday September 9thEvery TuesdayKeep you body and mind fresh every Tuesday at the Strain with run club & trivia!Run Club at 630 & Trivia at 730Yappy Hour Thurstdays!Thursday September 11th",
+        "source_url": "https://plazamidwood.southernstrainbrewing.com/",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.811Z"
+    "last_verified_at": "2025-09-07T16:41:10.756Z"
   },
   {
     "venue_name": "The People's Market - Elizabeth",
@@ -30589,12 +31775,47 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "04:00",
+        "end_time": "20:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "×Elizabeth Market - Book Club MondaysBring your book club every Monday from 4-8pm! All book clubs get 10% off pastries and coffee items. Reserve your space here https://forms.gle/QDge68tqE5aGuJD47Upcoming Events",
+        "source_url": "https://thepeoplesmarket.co/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Elizabeth Market - Book Club Mondays",
+        "source_url": "https://thepeoplesmarket.co/",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.811Z"
+    "last_verified_at": "2025-09-07T16:41:10.757Z"
   },
   {
     "venue_name": "Panera Bread",
@@ -32885,12 +34106,30 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Sunday",
+        "start_time": "11:00",
+        "end_time": "21:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Get Directions 1522 Providence Road, Charlotte, North Carolina 28207 Call Us 704-366-4467 Order for Pickup Pickup 704-366-4467 Kitchen Open Daily Sunday- Thursday 11am- 9pm Friday and Saturday 11am- 9:30pm Instagram Feed",
+        "source_url": "https://providenceroadsundries.com/",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.811Z"
+    "last_verified_at": "2025-09-07T16:41:10.755Z"
   },
   {
     "venue_name": "Mezzanotte",
@@ -33025,12 +34264,51 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Thursday",
+        "start_time": "11:00",
+        "end_time": "10:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "brunch"
+        ],
+        "confidence": "low",
+        "source_snippet": "COTSWOLDAddress705 South Sharon Amity Road, Charlotte, North Carolina 28211, United Statesinfo@leroyfox.com (704) 366-3232Hours of OperationMonday - Thursday: 11:00 AM - 10:00 PMFriday: 11:00 AM - 11:00 PMSaturday: 10:00 AM - 11:00 PMSunday",
+        "source_url": "https://leroyfox.com/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "11:00",
+        "end_time": "10:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "brunch"
+        ],
+        "confidence": "low",
+        "source_snippet": "Monday - Thursday: 11:00 AM - 10:00 PMFriday: 11:00 AM - 11:00 PMSaturday: 10:00 AM - 11:00 PMSunday: 10:00 AM - 10:00 PMBRUNCH is on Sat & Sun from 10:00 AM - 2:30 PM",
+        "source_url": "https://leroyfox.com/",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.811Z"
+    "last_verified_at": "2025-09-07T16:41:10.754Z"
   },
   {
     "venue_name": "Pizza Hut",
@@ -33277,12 +34555,30 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 6,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "medium",
+        "source_snippet": "$6Meal DealIt's the biggest deal in breakfast! For a limited time, enjoy a medium Iced or Hot Coffee, a Bacon, Egg & Cheese, and Hash Browns for $6. Terms & excl. apply.Order NowDunkin'Rewards®The Fun Starts Here!Join Dunkin' Rewards to enj",
+        "source_url": "https://locations.dunkindonuts.com/en/nc/charlotte/5501-josh-birmingham-pkwy/363443",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.811Z"
+    "last_verified_at": "2025-09-07T16:41:10.749Z"
   },
   {
     "venue_name": "Dunkin'",
@@ -33333,12 +34629,47 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "11:00",
+        "end_time": "22:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "RESTAURANT HOURS Monday 11:00am - 10:00pm Tuesday 11:00am - 10:00pm Wednesday 11:00am - 10:00pm Thursday 11:00am - 10:00pm Friday 11:00am - 11:00pm Saturday 11:00am - 11:00pm Sunday 11:00am - 9:00pm RESTAURANT AMENITIES TakeoutWifiLate Nigh",
+        "source_url": "https://www.daveshotchicken.com/location/charlotte-nc-plaza-midwood/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Tuesday",
+        "start_time": "11:00",
+        "end_time": "22:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Tuesday 11:00am - 10:00pm",
+        "source_url": "https://www.daveshotchicken.com/location/charlotte-nc-plaza-midwood/",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.811Z"
+    "last_verified_at": "2025-09-07T16:41:10.749Z"
   },
   {
     "venue_name": "Deejai",
@@ -33697,12 +35028,47 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Friday",
+        "start_time": "01:00",
+        "end_time": "01:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Raleigh A Spirited Luncheon – Friday, September 26thThe Crunkleton Raleigh, A Spirited Luncheon & Mash Bill tasting with Gary Crunkleton, Friday, September 26th, 2025. Read more September 5, 2025 https://thecrunkleton.com/wp-content/uploads",
+        "source_url": "https://thecrunkleton.com/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Friday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Raleigh A Spirited Luncheon – Friday, September 26thThe Crunkleton Raleigh, A Spirited Luncheon & Mash Bill tasting with Gary Crunkleton, Friday, September 26th, 2025. Read more",
+        "source_url": "https://thecrunkleton.com/",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.811Z"
+    "last_verified_at": "2025-09-07T16:41:10.757Z"
   },
   {
     "venue_name": "Ho Ho Cherry House",
@@ -34509,12 +35875,35 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 6.5,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "sushi",
+          "bbq",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "low",
+        "source_snippet": "Our MenuSakeWine & BeerNon-Alcoholic DrinksLiquorDinnerSushiHouse SakeServed HotSho Chiku Bai$6.50/Small Carafe$9.50/Large CarafeAutumn Fruit Flavors with Hints of Chamomile, Spice and HoneyPlum Sake$6.50/Small Carafe$9.50/Large CarafeJapan",
+        "source_url": "https://rusans.com/menu",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.811Z"
+    "last_verified_at": "2025-09-07T16:41:10.756Z"
   },
   {
     "venue_name": "Taco Mama",
@@ -36581,12 +37970,53 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Don’t sleep on these Weekly Specials From Mussel Mondays to our renowned Bubbles & Frites Happy Hour, there’s something special happening almost every day at Rosemont! Learn More",
+        "source_url": "https://rosemontclt.com/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Wednesday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "low",
+        "source_snippet": "Special Dinners & Wine Tastings Upcoming Events We regularly host wine tastings and special dinners and have been known to throw a party on the patio! And, don’t forget about half-price bottles of wine every Wednesday. Upcoming Events",
+        "source_url": "https://rosemontclt.com/",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.812Z"
+    "last_verified_at": "2025-09-07T16:41:10.756Z"
   },
   {
     "venue_name": "The Yard Milkshake Bar",
@@ -36637,12 +38067,53 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Saturday",
+        "start_time": "11:00",
+        "end_time": "15:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "brunch",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "low",
+        "source_snippet": "Brunch at Puerta We put our spin on huevos, cocktails and more for weekend brunch. Join us Saturday and Sunday from 11am-3pm. Reserve your table today! Check it Out",
+        "source_url": "https://puertaclt.com/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Taco Tuesday",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": null,
+        "end_time": null,
+        "price": 50,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "tacos"
+        ],
+        "confidence": "high",
+        "source_snippet": "Weekly Specials Add a fun twist to your regular week nights with our weekly specials. Mezcal Monday invites you to explore a rotating selection of discounted pours on select agave spirits. Each week features new options, making it the perfe",
+        "source_url": "https://puertaclt.com/",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.812Z"
+    "last_verified_at": "2025-09-07T16:41:10.756Z"
   },
   {
     "venue_name": "Sanctuary",
@@ -37057,12 +38528,51 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Tuesday",
+        "start_time": "00:00",
+        "end_time": "17:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "wings",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "low",
+        "source_snippet": "/*! elementor - v3.22.0 - 17-06-2024 */ .elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-wi",
+        "source_url": "https://murayarestaurant.com/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Tuesday",
+        "start_time": "11:00",
+        "end_time": "22:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "OPEN Tuesday to Thursday 5pm - 10pmFriday & Saturday 11am - 12amSunday 11am-10pm Host an Event Book a Table",
+        "source_url": "https://murayarestaurant.com/",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.812Z"
+    "last_verified_at": "2025-09-07T16:41:10.755Z"
   },
   {
     "venue_name": "RuRu's Tacos & Tequila",
@@ -38177,12 +39687,47 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Friday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "musicyardclt We can’t wait to welcome back our good friend @d Join us this Friday, August 11th at The Yard as we Happy Sunday🌞 Get your MOVE mindset going! The Friday night was absolutely electric with the Don, TODAY we’re rockin’ with the",
+        "source_url": "https://musicyardclt.com/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Sunday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Happy Sunday🌞 Get your MOVE mindset going! The",
+        "source_url": "https://musicyardclt.com/",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.813Z"
+    "last_verified_at": "2025-09-07T16:41:10.757Z"
   },
   {
     "venue_name": "Merchant & Trade",
@@ -39045,12 +40590,64 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "09:00",
+        "end_time": "20:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Naf Naf Grill Barstow (NOW OPEN!) 2974 Lenwood Rd Exit 178 I-15, Barstow, CA 92311 Phone: (760) 253-4080 Hours: Monday: 9 AM–8 PM Tuesday: 9 AM–8 PM Wednesday: 9 AM–8 PM Thursday: 9 AM–8 PM Friday: 9 AM–8 PM Saturday: 9 AM–8 PM Sunday: 9 AM",
+        "source_url": "https://www.nafnafgrill.com/locations/#jump-promenade",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Wednesday",
+        "start_time": "09:00",
+        "end_time": "20:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Wednesday: 9 AM–8 PM",
+        "source_url": "https://www.nafnafgrill.com/locations/#jump-promenade",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "10:00",
+        "end_time": "20:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Naf Naf Grill Champaign 2502 N Prospect Ave, Champaign, IL 61822 Phone: (630) 904-7200 Hours: Monday: 10:30 AM–8 PM Tuesday: 10:30 AM–8 PM Wednesday: 10:30 AM–8 PM Thursday: 10:30 AM–8 PM Friday: 10:30 AM–10 PM Saturday: 10:30 AM–10 PM Sund",
+        "source_url": "https://www.nafnafgrill.com/locations/#jump-promenade",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.813Z"
+    "last_verified_at": "2025-09-07T16:41:10.755Z"
   },
   {
     "venue_name": "Night Swim Coffee",
@@ -40221,12 +41818,47 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "04:00",
+        "end_time": "20:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "×Elizabeth Market - Book Club MondaysBring your book club every Monday from 4-8pm! All book clubs get 10% off pastries and coffee items. Reserve your space here https://forms.gle/QDge68tqE5aGuJD47Upcoming Events",
+        "source_url": "https://thepeoplesmarket.co/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Elizabeth Market - Book Club Mondays",
+        "source_url": "https://thepeoplesmarket.co/",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.813Z"
+    "last_verified_at": "2025-09-07T16:41:10.757Z"
   },
   {
     "venue_name": "Pie In The Sky Pizza",
