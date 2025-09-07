@@ -241,13 +241,133 @@
         "source_snippet": "Taco Tuesday is here! Matthews & University locations: $2 street tacos. Uptown, Highland Creek, & Plaza Midwood ...",
         "source_url": "https://www.facebook.com/eatqueonda/",
         "scrape_allowed": null
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 17.95,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "medium",
+        "source_snippet": "Specialty EntreesPollo Enchiladas$17.95Three enchiladas stuffed with chicken tinga and crispy cheese. Topped with crema and pico de gallo. Served with a side of refried black beans and Mexican rice |",
+        "source_url": "https://queondatacos.com/charlotte-que-onda-uptown-food-menu",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Brunch",
+        "description": null,
+        "weekday": "Saturday",
+        "start_time": "11:00",
+        "end_time": "15:00",
+        "price": 3,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "tacos",
+          "brunch",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "Every Saturday and Sunday 11:00 am - 3:00 pm | Featuring our $3.00 Tropical Mimosas • ** Indicate items served raw or undercooked.Brunch EntréesOmelet Ranchero (GF, V)$13.95Sautéed mushrooms, spinach,",
+        "source_url": "https://queondatacos.com/charlotte-que-onda-uptown-food-menu",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Brunch",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 13.95,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "brunch"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Brunch EntréesOmelet Ranchero (GF, V)$13.95Sautéed mushrooms, spinach, onion, and cilantro. Smothered with entomatada sauce. Topped with avocado, Cotija cheese, and Cherry tomatoes. Served with mixed",
+        "source_url": "https://queondatacos.com/charlotte-que-onda-uptown-food-menu",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Tuesday",
+        "start_time": "11:00",
+        "end_time": "22:00",
+        "price": 5,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "tacos",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "SpecialsSunday September 7th $5 All Draft Beers | HALF OFF Mexican Dips (DINE IN ONLY - NOT AVAILABLE TO-GO) *Not available in Matthews location. 11:00 AM - 10:00 PM Tuesday September 9th $2.5 Street",
+        "source_url": "https://queondatacos.com/charlotte-que-onda-uptown-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Brunch",
+        "description": null,
+        "weekday": "Saturday",
+        "start_time": "11:00",
+        "end_time": "15:00",
+        "price": 3,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "tacos",
+          "brunch",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "Every Saturday and Sunday 11:00 am - 3:00 pm | Featuring our $3.00 Tropical Mimosas • ** Indicate items served raw or undercooked.Brunch EntréesOmelet Ranchero (GF, V)$13.95Sautéed mushrooms, spinach,",
+        "source_url": "https://queondatacos.com/charlotte-que-onda-uptown-food-menu-matthews",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Brunch",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 13.95,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "brunch"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Brunch EntréesOmelet Ranchero (GF, V)$13.95Sautéed mushrooms, spinach, onion, and cilantro. Smothered with entomatada sauce. Topped with avocado, Cotija cheese, and Cherry tomatoes. Served with mixed",
+        "source_url": "https://queondatacos.com/charlotte-que-onda-uptown-food-menu-matthews",
+        "scrape_allowed": true
       }
     ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: confirm Plaza Midwood pricing if different on the day"
     ],
-    "last_verified_at": "2025-08-31"
+    "last_verified_at": "2025-09-07T17:34:00.915Z"
   },
   {
     "venue_name": "The Eagle — South End",
@@ -702,13 +822,137 @@
         "source_snippet": "Find a TGI Fridays near me Use my location Enter city, state, or postal code SEARCH List View Map View",
         "source_url": "https://locations.tgifridays.com/nc/charlotte/12811-s-tryon-st.html",
         "scrape_allowed": true
+      },
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": "Friday",
+        "start_time": null,
+        "end_time": null,
+        "price": 5,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "HAPPY HOUR IN Edgewater, MD Celebrate in style at TGI Fridays inside Westfield Annapolis Mall! From birthday dinners to after-shopping meetups, we offer 2- and 3-course menus with something for everyo",
+        "source_url": "https://locations.tgifridays.com/md/annapolis/2582-solomons-island-rd.html",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Friday",
+        "start_time": "16:00",
+        "end_time": "18:00",
+        "price": 17.69,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "wings",
+          "burgers",
+          "bbq",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "Fridays Favs Appetizers Fridays Grill Burgers & Sandwiches Entrees Salads & Soups Desserts Kids Platters & Bundles Value Meal Deals Beverages Sides let onlinemenu; let remoteid; let sources; let descr",
+        "source_url": "https://locations.tgifridays.com/md/annapolis/2582-solomons-island-rd.html",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Friday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "burgers"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Appetizers Fridays Grill Burgers & Sandwiches Entrees Salads & Soups Desserts Kids Platters & Bundles Value Meal Deals Beverages Sides",
+        "source_url": "https://locations.tgifridays.com/md/annapolis/2582-solomons-island-rd.html",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": "Friday",
+        "start_time": null,
+        "end_time": null,
+        "price": 5,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "low",
+        "source_snippet": "HOST AN EVENT IN Fort Smith, AR Make your next event unforgettable at TGI Fridays in Fort Smith. Located on Rogers Ave, we offer exciting food, a lively atmosphere, and flexible event menus that work",
+        "source_url": "https://locations.tgifridays.com/ar/fort-smith/6201-b-rogers-ave.html",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Friday",
+        "start_time": "16:00",
+        "end_time": "18:00",
+        "price": 16.99,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "wings",
+          "burgers",
+          "bbq",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "Fridays Favs Appetizers Fridays Grill Burgers & Sandwiches Entrees Salads & Soups Desserts Kids Platters & Bundles Value Meal Deals Beverages Sides let onlinemenu; let remoteid; let sources; let descr",
+        "source_url": "https://locations.tgifridays.com/ar/fort-smith/6201-b-rogers-ave.html",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Friday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "burgers"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Appetizers Fridays Grill Burgers & Sandwiches Entrees Salads & Soups Desserts Kids Platters & Bundles Value Meal Deals Beverages Sides",
+        "source_url": "https://locations.tgifridays.com/ar/fort-smith/6201-b-rogers-ave.html",
+        "scrape_allowed": true
       }
     ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T16:41:10.756Z"
+    "last_verified_at": "2025-09-07T17:34:00.918Z"
   },
   {
     "venue_name": "Fuel Pizza",
@@ -1151,12 +1395,189 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "11:00",
+        "end_time": "14:00",
+        "price": 10,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "burgers"
+        ],
+        "confidence": "high",
+        "source_snippet": "Lunch SpecialsDownload PDFNot valid for any other discount or offer. Dine-in only. Available Monday - Friday from 11am - 2pm.$10 Speed Lunch Smoked 1/4 Chicken $101/4 chicken, light or dark served wit",
+        "source_url": "https://macspeedshop.com/menus/lunch-specials/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": "Sunday",
+        "start_time": "12:00",
+        "end_time": "16:00",
+        "price": 4,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "burgers",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "low",
+        "source_snippet": "12 events found. [{\"@context\":\"http://schema.org\",\"@type\":\"Event\",\"name\":\"Sunday Football\",\"description\":\"&lt;p&gt;$4 Domestic Pints | $4 Mimosas | $7 Minus 196 Cans | $7 Signature Bloody Marys | The",
+        "source_url": "https://macspeedshop.com/events",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": "Sunday",
+        "start_time": "17:00",
+        "end_time": "22:00",
+        "price": 4,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "burgers",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "low",
+        "source_snippet": "September 2025 Sun 7 September 7, 2025 @ 1:00 pm - January 4, 2026 @ 11:00 pm Sunday Football Concord Mills 8021 Concord Mills Boulevard, Concord, North Carolina +8 more $4 Domestic Pints | $4 Mimosas",
+        "source_url": "https://macspeedshop.com/events",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "19:00",
+        "end_time": "22:00",
+        "price": 3,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "burgers"
+        ],
+        "confidence": "low",
+        "source_snippet": "Mon 8 September 8 @ 7:00 pm - 10:00 pm Recurring Monday Night Football Concord Mills 8021 Concord Mills Boulevard, Concord, North Carolina +7 more 1/2 Price Burger & Fries | $3 Busch Light Pints | $5",
+        "source_url": "https://macspeedshop.com/events",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 3,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "burgers"
+        ],
+        "confidence": "medium",
+        "source_snippet": "1/2 Price Burger & Fries | $3 Busch Light Pints | $5 Wells | $4 Athletic (NA), Run Wild Pints *Food special available kick off to end of game",
+        "source_url": "https://macspeedshop.com/events",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": null,
+        "start_time": "17:00",
+        "end_time": "19:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Tue 9 September 9 @ 5:00 pm - 7:00 pm Live Music From Brett Bartschi! Greenville 930 S Main St, Greenville, SC, United States Come out and grab a Happy Hour drink special from 5pm-7pm! ✭ ½ Price Draft",
+        "source_url": "https://macspeedshop.com/events",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Sunday",
+        "start_time": null,
+        "end_time": null,
+        "price": 4,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "burgers"
+        ],
+        "confidence": "low",
+        "source_snippet": "Sun 7 September 7, 2025 @ 1:00 pm - January 4, 2026 @ 11:00 pm Sunday Football Concord Mills 8021 Concord Mills Boulevard, Concord, North Carolina +8 more $4 Domestic Pints | $4 Mimosas | $7 Minus 196 Cans | $7 Signature Bloody Marys | The",
+        "source_url": "https://macspeedshop.com/events",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "17:00",
+        "end_time": "22:00",
+        "price": 2,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "burgers"
+        ],
+        "confidence": "low",
+        "source_snippet": "Mon 8 September 8 @ 5:00 pm - 10:00 pm Recurring $2 Burger Night at Mac’s, Five Points! Five Points 1626 Glenwood Ave, Raleigh, United States It's time to BYOB (Build Your Own Burger) every Monday at Mac's in Five Points! Grab a fresh, neve",
+        "source_url": "https://macspeedshop.com/events",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": null,
+        "end_time": null,
+        "price": 2,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "burgers"
+        ],
+        "confidence": "low",
+        "source_snippet": "It's time to BYOB (Build Your Own Burger) every Monday at Mac's in Five Points! Grab a fresh, never Frozen 1/2 LB. Angus Beef Patty for only $2 with a […]",
+        "source_url": "https://macspeedshop.com/events",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.807Z"
+    "last_verified_at": "2025-09-07T17:54:17.378Z"
   },
   {
     "venue_name": "HopFly Brewing Co.",
@@ -1241,13 +1662,115 @@
         "source_snippet": "Jack in the Box OPEN TODAY UNTIL 01:00 A.M. 7806 Forest Point Blvd Charlotte, NC 28217 (704) 527-1681 View Menu Get Directions Order NOW Download APP Download APP Available at this Location DRIVE-THRU HOURS Today 08:00 AM to 01:00 AM Monday",
         "source_url": "https://locations.jackinthebox.com/us/nc/charlotte/7806-forest-point-blvd",
         "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "04:00",
+        "end_time": "04:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Jack in the Box OPEN TODAY UNTIL 04:00 A.M. 2113 W Happy Valley Rd Phoenix, AZ 85085 (623) 869-5006 View Menu Get Directions Order NOW Download APP Download APP Available at this Location DRIVE-THRU HOURS Today 04:00 AM to 04:00 AM Monday 0",
+        "source_url": "https://locations.jackinthebox.com/us/az/phoenix/2113-w-happy-valley-rd",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Tuesday",
+        "start_time": "04:00",
+        "end_time": "04:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Tuesday 04:00 AM to 04:00 AM",
+        "source_url": "https://locations.jackinthebox.com/us/az/phoenix/2113-w-happy-valley-rd",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Wednesday",
+        "start_time": "04:00",
+        "end_time": "04:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Wednesday 04:00 AM to 04:00 AM",
+        "source_url": "https://locations.jackinthebox.com/us/az/phoenix/2113-w-happy-valley-rd",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Thursday",
+        "start_time": "04:00",
+        "end_time": "04:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Thursday 04:00 AM to 04:00 AM",
+        "source_url": "https://locations.jackinthebox.com/us/az/phoenix/2113-w-happy-valley-rd",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Friday",
+        "start_time": "04:00",
+        "end_time": "04:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Friday 04:00 AM to 04:00 AM",
+        "source_url": "https://locations.jackinthebox.com/us/az/phoenix/2113-w-happy-valley-rd",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Saturday",
+        "start_time": "04:00",
+        "end_time": "04:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Saturday 04:00 AM to 04:00 AM",
+        "source_url": "https://locations.jackinthebox.com/us/az/phoenix/2113-w-happy-valley-rd",
+        "scrape_allowed": true
       }
     ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T16:41:10.753Z"
+    "last_verified_at": "2025-09-07T17:54:17.377Z"
   },
   {
     "venue_name": "YAMA",
@@ -1318,13 +1841,145 @@
         "source_snippet": "review by - Yelp David K: Not busy on a Thursday evening but made the first visit even better. The food was good, loved the bratwurst and sauerkraut, plus glad not to have to rely on a food truck. The beer is great...",
         "source_url": "https://gilde1546.com/",
         "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Saturday",
+        "start_time": null,
+        "end_time": null,
+        "price": 6,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "tacos",
+          "wings",
+          "burgers",
+          "bbq",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "low",
+        "source_snippet": "Available Saturday and Sunday from 10AM - 3PMFoodBelgium Waffle$6.00A Belgium-Style Waffle served with Butter & Syrup. ADD | Blueberries, Strawberries, or Chocolate Chips - $1Chicken & Waffles$11.00A",
+        "source_url": "https://gilde1546.com/charlotte-lower-south-end-gilde-brewery-food-menu",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 10,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "tacos",
+          "wings",
+          "burgers",
+          "bbq",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "low",
+        "source_snippet": "AppetizersBretzel & Obazda$10.00Warm Salted Pretzel served with Cold German Cheese Dip. Topped with Slivered Onion & Chives.Large Bretzel with Obazda & Mustard Trio$15.00Warm Salted Pretzel served wit",
+        "source_url": "https://gilde1546.com/charlotte-lower-south-end-gilde-brewery-food-menu",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Sunday",
+        "start_time": "10:00",
+        "end_time": "22:00",
+        "price": 5,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "wings",
+          "burgers",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "EventsWing Thing SundaysSunday September 7thEvery SundayIn-store exclusiveYou heard it right—Wing Thing Sunday is here as your weekly Sunday Gameday special, just in time for the start of the NFL seas",
+        "source_url": "https://gilde1546.com/charlotte-lower-south-end-gilde-brewery-events",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Sunday",
+        "start_time": null,
+        "end_time": null,
+        "price": 5,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "wings",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "Every SundayIn-store exclusiveYou heard it right—Wing Thing Sunday is here as your weekly Sunday Gameday special, just in time for the start of the NFL season.First, you need something to drink, and w",
+        "source_url": "https://gilde1546.com/charlotte-lower-south-end-gilde-brewery-events",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 5,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "medium",
+        "source_snippet": "This deal is available for dine-in only—no online orders, no takeout. Just great food, cold $5 beer, and unbeatable vibes.",
+        "source_url": "https://gilde1546.com/charlotte-lower-south-end-gilde-brewery-events",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Wednesday",
+        "start_time": "10:00",
+        "end_time": "22:00",
+        "price": 5,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "burgers",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "low",
+        "source_snippet": "Mindless Minutia Music BingoWednesday September 10thEvery Wednesday🎶 Name that tune, win that prize. Wednesdays are officially Music Bingo nights at Gilde — where your playlist knowledge pays off.Joi",
+        "source_url": "https://gilde1546.com/charlotte-lower-south-end-gilde-brewery-events",
+        "scrape_allowed": true
       }
     ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T16:41:10.752Z"
+    "last_verified_at": "2025-09-07T17:34:00.910Z"
   },
   {
     "venue_name": "Mr. G's",
@@ -1729,13 +2384,33 @@
         "source_snippet": "Thursday August 14th Live Music and $12 Flight Night! 07:00 PM - 09:00 PM",
         "source_url": "https://www.rosieswinegarden.com/specials",
         "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Wednesday",
+        "start_time": "10:00",
+        "end_time": "22:00",
+        "price": 5,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "SpecialsSunday September 7th $5 Mimosas! 10:00 AM - 10:00 PM Wednesday September 10th Half Priced Select Wine Bottles 08:00 AM - 10:00 PM Thursday September 11th Live Music and $12 Flight Night! 07:00",
+        "source_url": "https://www.rosieswinegarden.com/specials",
+        "scrape_allowed": true
       }
     ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T16:41:10.756Z"
+    "last_verified_at": "2025-09-07T17:34:00.916Z"
   },
   {
     "venue_name": "Supperland",
@@ -2010,12 +2685,115 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Sunday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Menu Order Now Contact info@mezzomarketclt.com 704-595-3273 2212 The Plaza,Charlotte, NC 28205 Hours Sunday: 10:00 a.m. – 9:00 p.m. Monday: Closed Tue – Thu: 11:00 a.m. – 10:00 p.m. Friday: 11 a.m. – 11 p.m. Saturday: 10:00 a.m. – 11:00 p.m",
+        "source_url": "https://mezzomarketclt.com/menu",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Friday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Friday: 11 a.m. – 11 p.m.",
+        "source_url": "https://mezzomarketclt.com/menu",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Saturday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Saturday: 10:00 a.m. – 11:00 p.m.",
+        "source_url": "https://mezzomarketclt.com/menu",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Sunday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Menu Order Now Contact info@mezzomarketclt.com 704-595-3273 2212 The Plaza,Charlotte, NC 28205 Hours Sunday: 10:00 a.m. – 9:00 p.m. Monday: Closed Tue – Thu: 11:00 a.m. – 10:00 p.m. Friday: 11 a.m. – 11 p.m. Saturday: 10:00 a.m. – 11:00 p.m",
+        "source_url": "https://mezzomarketclt.com/menu/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Friday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Friday: 11 a.m. – 11 p.m.",
+        "source_url": "https://mezzomarketclt.com/menu/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Saturday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Saturday: 10:00 a.m. – 11:00 p.m.",
+        "source_url": "https://mezzomarketclt.com/menu/",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.807Z"
+    "last_verified_at": "2025-09-07T17:54:17.376Z"
   },
   {
     "venue_name": "Snug Harbor",
@@ -3186,12 +3964,206 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 3.49,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "tacos",
+          "bbq"
+        ],
+        "confidence": "medium",
+        "source_snippet": "The Consumer Advisory: *Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase the risk of food-borne illness, especially if you have preexisting medical conditions.Munc",
+        "source_url": "https://www.phatburrito.com/charlotte-southend-phat-burrito-food-menu",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "11:00",
+        "end_time": "21:00",
+        "price": 3,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "tacos",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "SpecialsMonday September 8th Start the week off the right way at Phat Burrito! Try our Monday Burrito of the Day, the California Burrito. And wash it down with $3 Domestic Beer. 11:00 AM - 09:00 PM Tu",
+        "source_url": "https://www.phatburrito.com/charlotte-southend-phat-burrito-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Thursday",
+        "start_time": "11:00",
+        "end_time": "21:00",
+        "price": 5,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "Thursday September 11th Join us for Thursday's special at Phat Burrito: Dive into our delicious Phat Wrap Supreme while enjoying our $5 Draft Beer special. It’s the perfect midweek escape to delight y",
+        "source_url": "https://www.phatburrito.com/charlotte-southend-phat-burrito-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Thursday",
+        "start_time": null,
+        "end_time": null,
+        "price": 5,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "Join us for Thursday's special at Phat Burrito: Dive into our delicious Phat Wrap Supreme while enjoying our $5 Draft Beer special. It’s the perfect midweek escape to delight your taste buds!",
+        "source_url": "https://www.phatburrito.com/charlotte-southend-phat-burrito-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Friday",
+        "start_time": "11:00",
+        "end_time": "21:00",
+        "price": 7,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "tacos"
+        ],
+        "confidence": "high",
+        "source_snippet": "Friday September 12th Kick off your weekend with our Friday special at Phat Burrito: Savor the rich flavors of our Birria Tacos paired with a refreshing margarita. Our Phat Margaritas are only $7 on F",
+        "source_url": "https://www.phatburrito.com/charlotte-southend-phat-burrito-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Friday",
+        "start_time": null,
+        "end_time": null,
+        "price": 7,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "tacos"
+        ],
+        "confidence": "high",
+        "source_snippet": "Kick off your weekend with our Friday special at Phat Burrito: Savor the rich flavors of our Birria Tacos paired with a refreshing margarita. Our Phat Margaritas are only $7 on Fridays, $10 for a Fish",
+        "source_url": "https://www.phatburrito.com/charlotte-southend-phat-burrito-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Monday September 8th",
+        "source_url": "https://www.phatburrito.com/charlotte-southend-phat-burrito-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Tuesday",
+        "start_time": "11:00",
+        "end_time": "21:00",
+        "price": 3,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "low",
+        "source_snippet": "Tuesday September 9th $3 Mexican Beer on Tuesdays. Need we say more? 11:00 AM - 09:00 PM",
+        "source_url": "https://www.phatburrito.com/charlotte-southend-phat-burrito-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Tuesday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Tuesday September 9th",
+        "source_url": "https://www.phatburrito.com/charlotte-southend-phat-burrito-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Wednesday",
+        "start_time": "11:00",
+        "end_time": "21:00",
+        "price": 5,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "low",
+        "source_snippet": "Wednesday September 10th Come unwind at Phat Burrito on Wednesdays! $5 Craft Beers, creating the perfect pairing for our mouthwatering burritos! 11:00 AM - 09:00 PM",
+        "source_url": "https://www.phatburrito.com/charlotte-southend-phat-burrito-happy-hours-specials",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.807Z"
+    "last_verified_at": "2025-09-07T17:54:17.378Z"
   },
   {
     "venue_name": "Pinky's Westside Grill",
@@ -3931,13 +4903,118 @@
         "source_snippet": "TGI Fridays Charlotte, NC TGI Fridays - Store details for your local Restaurant & Bar in Charlotte, NC Coming Soon! ORDER NOW",
         "source_url": "https://locations.tgifridays.com/nc/charlotte/6840-northlake-mall-dr.html",
         "scrape_allowed": true
+      },
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": "Friday",
+        "start_time": null,
+        "end_time": null,
+        "price": 5,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "low",
+        "source_snippet": "HOST AN EVENT IN Charlotte, NC TGI Fridays at Northlake Mall brings bold flavors and easy hosting to your next celebration. Whether you’re planning a group dinner or a weekend outing, our 2- and 3-cou",
+        "source_url": "https://locations.tgifridays.com/nc/charlotte/6840-northlake-mall-dr.html",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Friday",
+        "start_time": "16:00",
+        "end_time": "18:00",
+        "price": 17.49,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "wings",
+          "burgers",
+          "bbq",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "Fridays Favs Appetizers Fridays Grill Burgers & Sandwiches Entrees Salads & Soups Desserts Kids Platters & Bundles Value Meal Deals Beverages Sides let onlinemenu; let remoteid; let sources; let descr",
+        "source_url": "https://locations.tgifridays.com/nc/charlotte/6840-northlake-mall-dr.html",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": "Friday",
+        "start_time": null,
+        "end_time": null,
+        "price": 5,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "low",
+        "source_snippet": "HOST AN EVENT IN Charlotte, NC Need a local go-to for group dining in Charlotte? TGI Fridays on W. Harris Blvd offers fun, flavorful food and easy-to-plan event menus for any celebration. From birthda",
+        "source_url": "https://locations.tgifridays.com/nc/charlotte/409-w-wt-harris-blvd.html",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Friday",
+        "start_time": "16:00",
+        "end_time": "18:00",
+        "price": 17.49,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "wings",
+          "burgers",
+          "bbq",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "Fridays Favs Appetizers Fridays Grill Burgers & Sandwiches Entrees Salads & Soups Desserts Kids Platters & Bundles Value Meal Deals Beverages Sides let onlinemenu; let remoteid; let sources; let descr",
+        "source_url": "https://locations.tgifridays.com/nc/charlotte/409-w-wt-harris-blvd.html",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Friday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "burgers"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Appetizers Fridays Grill Burgers & Sandwiches Entrees Salads & Soups Desserts Kids Platters & Bundles Value Meal Deals Beverages Sides",
+        "source_url": "https://locations.tgifridays.com/nc/charlotte/409-w-wt-harris-blvd.html",
+        "scrape_allowed": true
       }
     ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T16:41:10.757Z"
+    "last_verified_at": "2025-09-07T17:34:00.918Z"
   },
   {
     "venue_name": "P.F. Chang's",
@@ -6195,13 +7272,145 @@
         "source_snippet": "What to Expect at Our Applebee's Restaurant in Charlotte Make Applebee's at 8700 J. W. Clay in Charlotte your neighborhood bar and grill. Whether you're looking for affordable lunch specials with co-workers, or in the mood for a delicious d",
         "source_url": "https://restaurants.applebees.com/en-us/nc/charlotte/8700-j.-w.-clay-89023",
         "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Wednesday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "wings",
+          "burgers",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Charlotte Food Specials Near You at Applebee’s Get new restaurant specials near you from Applebee’s® located at 8700 J. W. Clay, Charlotte, NC 28262. Our specials are year round but for a limited time",
+        "source_url": "https://restaurants.applebees.com/en-us/nc/charlotte/8700-j.-w.-clay-89023/specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Wednesday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "wings",
+          "burgers",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Anchorage Food Specials Near You at Applebee’s Get new restaurant specials near you from Applebee’s® located at 4331 Credit Union Drive, Anchorage, AK 99503. Our specials are year round but for a limi",
+        "source_url": "https://restaurants.applebees.com/en-us/ak/anchorage/4331-credit-union-drive-94069/specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Wednesday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "wings",
+          "burgers",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Athens Food Specials Near You at Applebee’s Get new restaurant specials near you from Applebee’s® located at 1331 Hwy. 72 East, Athens, AL 35611. Our specials are year round but for a limited time onl",
+        "source_url": "https://restaurants.applebees.com/en-us/al/athens/1331-hwy.-72-east-95010/specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Wednesday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "wings",
+          "burgers",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Auburn Food Specials Near You at Applebee’s Get new restaurant specials near you from Applebee’s® located at 1627-34 Opelika Road, Auburn, AL 36830. Our specials are year round but for a limited time",
+        "source_url": "https://restaurants.applebees.com/en-us/al/auburn/1627-34-opelika-road-84037/specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Wednesday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "wings",
+          "burgers",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Bessemer Food Specials Near You at Applebee’s Get new restaurant specials near you from Applebee’s® located at 5050 Academy Lane, Bessemer, AL 35022. Our specials are year round but for a limited time",
+        "source_url": "https://restaurants.applebees.com/en-us/al/bessemer/5050-academy-lane-94048/specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Wednesday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "wings",
+          "burgers",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Birmingham Food Specials Near You at Applebee’s Get new restaurant specials near you from Applebee’s® located at 2246 Bessemer Road, Birmingham, AL 35207. Our specials are year round but for a limited",
+        "source_url": "https://restaurants.applebees.com/en-us/al/birmingham/2246-bessemer-road-75096/specials",
+        "scrape_allowed": true
       }
     ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T16:41:10.748Z"
+    "last_verified_at": "2025-09-07T17:34:00.907Z"
   },
   {
     "venue_name": "Los Arcos Mexican Restaurant",
@@ -6448,12 +7657,128 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Brunch",
+        "description": null,
+        "weekday": "Wednesday",
+        "start_time": "09:00",
+        "end_time": "19:00",
+        "price": 30,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "wings",
+          "brunch"
+        ],
+        "confidence": "low",
+        "source_snippet": "Loading view. [{\"@context\":\"http://schema.org\",\"@type\":\"Event\",\"name\":\"Wednesday Watch Party + Giveaway\",\"description\":\"&lt;p&gt;Win 1 of 2 SOLD OUT Wednesday Addams American Girl dolls this Halloween",
+        "source_url": "https://suffolkpunchbrewing.com/events/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Brunch",
+        "description": null,
+        "weekday": "Wednesday",
+        "start_time": "18:30",
+        "end_time": "20:00",
+        "price": 30,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "brunch"
+        ],
+        "confidence": "low",
+        "source_snippet": "September 2025 Wed 10 September 10 @ 6:30 pm - 8:00 pm Wednesday Watch Party + Giveaway Suffolk Punch - SouthPark 4400 Sharon Rd., Unit G23D, Charlotte, NC, United States Win 1 of 2 SOLD OUT Wednesday",
+        "source_url": "https://suffolkpunchbrewing.com/events/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Brunch",
+        "description": null,
+        "weekday": null,
+        "start_time": "09:00",
+        "end_time": "12:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "brunch"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Sat 13 September 13 @ 9:00 am - 12:00 pm Superhero Brunch @ SouthPark Suffolk Punch - SouthPark 4400 Sharon Rd., Unit G23D, Charlotte, NC, United States Missed your chance at Princess Brunch? Don’t wo",
+        "source_url": "https://suffolkpunchbrewing.com/events/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Brunch",
+        "description": null,
+        "weekday": "Sunday",
+        "start_time": "11:30",
+        "end_time": "13:30",
+        "price": 30,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "brunch"
+        ],
+        "confidence": "high",
+        "source_snippet": "Sun 14 September 14 @ 11:30 am - 1:30 pm Broadway Brunch @ South End Suffolk Punch - South End 2911 Griffith Street, Charlotte, NC 🎭 Broadway Brunch with Jessie Booth & Friends Sunday, September 14th",
+        "source_url": "https://suffolkpunchbrewing.com/events/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Brunch",
+        "description": null,
+        "weekday": "Sunday",
+        "start_time": null,
+        "end_time": null,
+        "price": 30,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "brunch"
+        ],
+        "confidence": "high",
+        "source_snippet": "🎭 Broadway Brunch with Jessie Booth & Friends Sunday, September 14th 🎤 Show Starts at 11:30 AM (Approx 1.5 hrs long) 🎟️ $30 Adults | […]",
+        "source_url": "https://suffolkpunchbrewing.com/events/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Brunch",
+        "description": null,
+        "weekday": null,
+        "start_time": "11:30",
+        "end_time": "13:30",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "brunch"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Sat 20 September 20 @ 11:30 am - 1:30 pm Broadway Brunch @ South End Suffolk Punch - South End 2911 Griffith Street, Charlotte, NC Join us at Norfolk Hall @ The Suffolk Punch for a spectacular morning",
+        "source_url": "https://suffolkpunchbrewing.com/events/",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.808Z"
+    "last_verified_at": "2025-09-07T17:34:00.916Z"
   },
   {
     "venue_name": "Chickie's & Pete's Sports Grill",
@@ -7232,12 +8557,72 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 11.95,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "bbq",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "low",
+        "source_snippet": "Our MenuDinnerAppetizerBBQ Shrimp$11.95/Small$17.95/LargeNew Orleans BBQ shrimp (SMALL Order is approximately 5, depending on size) are sautéed to perfection in: butter, garlic, beer, and a variety of",
+        "source_url": "https://cajunqueen.com/charlotte-elizabeth-cajun-queen-food-menu",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Brunch",
+        "description": null,
+        "weekday": null,
+        "start_time": "11:00",
+        "end_time": "14:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "brunch"
+        ],
+        "confidence": "medium",
+        "source_snippet": "SpecialsSunday September 7th Brunch 11am - 2pm 11:00 AM - 02:00 PM",
+        "source_url": "https://cajunqueen.com/charlotte-elizabeth-cajun-queen-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Brunch",
+        "description": null,
+        "weekday": "Sunday",
+        "start_time": "11:00",
+        "end_time": "14:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "brunch"
+        ],
+        "confidence": "high",
+        "source_snippet": "Sunday September 7th Brunch 11am - 2pm 11:00 AM - 02:00 PM",
+        "source_url": "https://cajunqueen.com/charlotte-elizabeth-cajun-queen-happy-hours-specials",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.808Z"
+    "last_verified_at": "2025-09-07T17:34:00.908Z"
   },
   {
     "venue_name": "Showmar's",
@@ -7452,13 +8837,53 @@
         "source_snippet": "🏈 Who’s ready for football season and Cheats It’s Tuesday which means we have a great deal! N Happy Labor Day! We’re open until 9 PM—and it This long holiday weekend let Cheat’s do all the Cheat’s on Instagram",
         "source_url": "https://cheatscheesesteaks.com/",
         "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 10.99,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "wings",
+          "bbq"
+        ],
+        "confidence": "medium",
+        "source_snippet": "July Special $10.99 Cheat’s Italian Dog Smoked Sausage Stuffed with Provolone Cheese and Peppers, Pepper Relish Aioli, Cheese Whiz, Sweet Peppers, and Scallions Hoagies Served on a Small or Large roll",
+        "source_url": "https://cheatscheesesteaks.com/menu",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 10.99,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "wings",
+          "bbq"
+        ],
+        "confidence": "medium",
+        "source_snippet": "July Special $10.99 Cheat’s Italian Dog Smoked Sausage Stuffed with Provolone Cheese and Peppers, Pepper Relish Aioli, Cheese Whiz, Sweet Peppers, and Scallions Hoagies Served on a Small or Large roll",
+        "source_url": "https://cheatscheesesteaks.com/menus",
+        "scrape_allowed": true
       }
     ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T16:41:10.748Z"
+    "last_verified_at": "2025-09-07T17:34:00.908Z"
   },
   {
     "venue_name": "YAFO Kitchen",
@@ -8881,12 +10306,47 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Wednesday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Wednesday, July 30th - Sunday, Aug 10thKrispy Kreme® x Crocs™Step into the spotlight and walk like you’re the hottest item on the menu with the Krispy Kreme® x Crocs ™ collaboration — where bold style",
+        "source_url": "https://www.krispykreme.com/promos/crocs",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Tuesday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "For more information on the Krispy Kreme 5 Pack Jibbitz™ Charms, check out crocs.com, products will launch on Tuesday, August 5th.",
+        "source_url": "https://www.krispykreme.com/promos/crocs",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.808Z"
+    "last_verified_at": "2025-09-07T17:54:17.380Z"
   },
   {
     "venue_name": "Chick-fil-A",
@@ -8937,12 +10397,52 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": "Friday",
+        "start_time": "14:00",
+        "end_time": "17:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "Shake Happy Hour is Back! Your afternoon just got sweeter. Grab any hand-spun shake for 50% off every Friday from 2–5 PM. Use code SHAKES25 for online pick up orders or mention this offer to your cash",
+        "source_url": "https://smashburger.com/deals",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Friday",
+        "start_time": null,
+        "end_time": null,
+        "price": 25,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "burgers"
+        ],
+        "confidence": "high",
+        "source_snippet": "Black Friday 2024 Burger Deals & Food Specials at Smashburger®Get ready to gobble up some serious Black Friday savings! On November 29-30, 2024, Smashburger® is dropping an epic online flash sale you",
+        "source_url": "https://smashburger.com/black-friday",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.808Z"
+    "last_verified_at": "2025-09-07T17:34:00.916Z"
   },
   {
     "venue_name": "Nickyo's Rodeo",
@@ -9709,7 +11209,7 @@
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T16:41:10.748Z"
+    "last_verified_at": "2025-09-07T17:34:00.907Z"
   },
   {
     "venue_name": "Jack's",
@@ -10338,12 +11838,37 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 12.99,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "tacos",
+          "wings",
+          "burgers",
+          "bbq",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "low",
+        "source_snippet": "Our MenuMain MenuStartersCrab con Queso$12.99Billy’s world-famous spicy cheese & crab dip served with fresh tortilla chipsSmoked Chicken Nachos$14.99BBQ smoked chicken thighs, pulled & layered atop cr",
+        "source_url": "https://boardwalkbillys.com/charlotte-uncc-boardwalk-billy-s-food-menu",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.809Z"
+    "last_verified_at": "2025-09-07T17:34:00.907Z"
   },
   {
     "venue_name": "The Giddy Goat Coffee Roasters",
@@ -11206,12 +12731,138 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Brunch",
+        "description": null,
+        "weekday": "SUNDAY",
+        "start_time": "11:00",
+        "end_time": "14:00",
+        "price": 8,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "burgers",
+          "brunch",
+          "bbq",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "Our MenuDinner MenuSATURDAY & SUNDAY BUFFET BRUNCHBalloons, confetti, signs and any other disruptive items are not permitted without prior consent from an event coordinator.STARTERSPIMENTO CHEESE$8.00",
+        "source_url": "https://gotosupperclub.com/charlotte-loso-supperclub-southend-food-menu",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Brunch",
+        "description": null,
+        "weekday": "SATURDAY",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "brunch"
+        ],
+        "confidence": "medium",
+        "source_snippet": "SATURDAY & SUNDAY BUFFET BRUNCH",
+        "source_url": "https://gotosupperclub.com/charlotte-loso-supperclub-southend-food-menu",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Brunch",
+        "description": null,
+        "weekday": "Saturday",
+        "start_time": "11:00",
+        "end_time": "14:00",
+        "price": 8,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "burgers",
+          "brunch",
+          "bbq",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "low",
+        "source_snippet": "Balloons, confetti, signs and any other disruptive items are not permitted without prior consent from an event coordinator.STARTERSPIMENTO CHEESE$8.00tillamook cheddar, ritz crackersBAKED FRENCH ONION",
+        "source_url": "https://gotosupperclub.com/charlotte-loso-supperclub-southend-food-menu",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Brunch",
+        "description": null,
+        "weekday": null,
+        "start_time": "18:00",
+        "end_time": "12:00",
+        "price": 22,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "brunch"
+        ],
+        "confidence": "high",
+        "source_snippet": "Buffet BrunchEnjoy a weekly rotation of items with your favorites included every weekend!BUFFET BRUNCHkids under 5$22.00/kids 6-12$34.00/adultA variety of items including fruits, cheeses, breakfast fa",
+        "source_url": "https://gotosupperclub.com/charlotte-loso-supperclub-southend-food-menu",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Tuesday",
+        "start_time": "16:00",
+        "end_time": "22:00",
+        "price": 4,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "SpecialsMonday September 8th $4 Sierra Nevada Hazy Little Thing $6 Hornitos Tequila Shot $8 Espresso Martini $8 AIX Rosè Glasses 04:00 PM - 10:00 PM $16 Rib Night Baby back ribs, fries and slaw 04:00",
+        "source_url": "https://gotosupperclub.com/charlotte-loso-supperclub-southend-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Brunch",
+        "description": null,
+        "weekday": "Saturday",
+        "start_time": "11:00",
+        "end_time": "14:00",
+        "price": 34,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "brunch",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "EventsWeekend BrunchSunday September 7thSundays and Saturdays every weekWhy brunch anywhere else when Supperclub serves up the perfect weekend vibes? 🍳🥂 From mouthwatering buffet to signature cockta",
+        "source_url": "https://gotosupperclub.com/charlotte-loso-supperclub-southend-events",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.809Z"
+    "last_verified_at": "2025-09-07T17:34:00.917Z"
   },
   {
     "venue_name": "Azteca",
@@ -11262,12 +12913,134 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Saturday",
+        "start_time": "09:00",
+        "end_time": "12:00",
+        "price": 1.5,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "tacos",
+          "wings",
+          "burgers",
+          "bbq",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "Our MenuBreakfastLunch & DinnerDaily SpecialsServed 9 am - 12 pm Saturday and SundaysBeagle BiscuitsMake it a combo with your choice of home fries or grits for only +$1.50 more!Bacon, Egg & Cheese$4.5",
+        "source_url": "https://jackbeagles.com/charlotte-jackbeagles-noda-food-menu",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Tuesday",
+        "start_time": "09:00",
+        "end_time": "12:00",
+        "price": 3,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "tacos",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "low",
+        "source_snippet": "MenuMonday$3.00Select craft draught.Tuesday$2.00/+Tacos $3.00 | Corona $3.00 | Margaritas $5.00Wednesday$4.00Select craft bottles.Thursday1/2 Price Wine | $5.00 Pink Starburst ShotsFriday$6.00/+Grape",
+        "source_url": "https://jackbeagles.com/charlotte-jackbeagles-noda-food-menu",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "09:00",
+        "end_time": "12:00",
+        "price": 3,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "tacos",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "low",
+        "source_snippet": "Monday$3.00Select craft draught.Tuesday$2.00/+Tacos $3.00 | Corona $3.00 | Margaritas $5.00Wednesday$4.00Select craft bottles.Thursday1/2 Price Wine | $5.00 Pink Starburst ShotsFriday$6.00/+Grape Gato",
+        "source_url": "https://jackbeagles.com/charlotte-jackbeagles-noda-food-menu",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": "09:00",
+        "end_time": "12:00",
+        "price": 4,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "high",
+        "source_snippet": "Breakfast from 9 am-12 pm • Drink Specials all day long ~ Mimosa $4.00 | Jack's Big Mimosa $8.00 | Single Bloody Mary $4.00 | Double Bloody Mary $8.00",
+        "source_url": "https://jackbeagles.com/charlotte-jackbeagles-noda-food-menu",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Tuesday",
+        "start_time": "10:00",
+        "end_time": "22:00",
+        "price": 4,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "tacos",
+          "wings",
+          "burgers"
+        ],
+        "confidence": "high",
+        "source_snippet": "Specials NodaMonday September 8th $4 select Draft 10:00 AM - 10:00 PM 1/2 off All our World Famous Mac and Cheeses 11:00 AM - 12:00 AM Tuesday September 9th 3.00 tacos!!!! 09:00 AM - 05:00 PM Wednesda",
+        "source_url": "https://jackbeagles.com/charlotte-jackbeagles-noda-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Friday",
+        "start_time": "08:00",
+        "end_time": "18:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "high",
+        "source_snippet": "Friday September 12th 1/2 off on All our Specialty waffle fries. 08:00 AM - 06:00 PM",
+        "source_url": "https://jackbeagles.com/charlotte-jackbeagles-noda-specials",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.809Z"
+    "last_verified_at": "2025-09-07T17:34:00.911Z"
   },
   {
     "venue_name": "Canal Coffee Company",
@@ -11906,12 +13679,81 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Tuesday",
+        "start_time": "11:00",
+        "end_time": "15:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "*****CURRENT HOURS*****Lunch Menu Tuesday - Saturday 11:00 AM - 3:00 PMDinner Menu Tuesday - Saturday 3:00 - 10:00We are currently closed on SUNDAYS and MONDAYSAlexander Michael's has always been 1st come / 1st served and does not accept re",
+        "source_url": "https://almikestavern.com/lunch-%26-dinner-menus",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Tuesday",
+        "start_time": "15:00",
+        "end_time": "10:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Dinner Menu Tuesday - Saturday 3:00 - 10:00",
+        "source_url": "https://almikestavern.com/lunch-%26-dinner-menus",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "SUNDAY",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "We are currently closed on SUNDAYS and MONDAYS",
+        "source_url": "https://almikestavern.com/lunch-%26-dinner-menus",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "TUESDAY",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Serving Lunch & Dinner TUESDAY through SATURDAY",
+        "source_url": "https://almikestavern.com/lunch-%26-dinner-menus",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.809Z"
+    "last_verified_at": "2025-09-07T17:54:17.379Z"
   },
   {
     "venue_name": "P.F. Chang's",
@@ -12102,12 +13944,137 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": "10:00",
+        "end_time": "15:00",
+        "price": 18.5,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "wings",
+          "pizza",
+          "burgers",
+          "bbq",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "Specialty PiesCreate your own Pizza12\" $18.50 | 14\" $21.99 | 16\" $25.99 • Up to 4 toppings.Carnivore12\" $19.50 | 14\" $21.99 | 16\" $25.99 • Any four meats of your choice.Classico12\" $18.50 | 14\" $21.99",
+        "source_url": "https://joemommasgrille.com/charlotte-steel-creek-joe-momma-s-pizza-and-grill-food-menu",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 18.5,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "wings",
+          "pizza",
+          "burgers",
+          "bbq",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Specialty PiesCreate your own Pizza12\" $18.50 | 14\" $21.99 | 16\" $25.99 • Up to 4 toppings.Carnivore12\" $19.50 | 14\" $21.99 | 16\" $25.99 • Any four meats of your choice.Classico12\" $18.50 | 14\" $21.99",
+        "source_url": "https://joemommasgrille.com/charlotte-steel-creek-joe-momma-s-pizza-and-grill-food-menu",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Tuesday",
+        "start_time": "14:00",
+        "end_time": "20:00",
+        "price": 25.99,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "pizza"
+        ],
+        "confidence": "high",
+        "source_snippet": "SpecialsMonday September 8th Buy any large specialty pizza for $25.99 + tax and get a dozen garlic knots for free! Dine in only! 02:00 PM - 08:00 PM Tuesday September 9th Buy any pizza at regular pric",
+        "source_url": "https://joemommasgrille.com/charlotte-steel-creek-joe-momma-s-pizza-and-grill-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "14:00",
+        "end_time": "20:00",
+        "price": 25.99,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "pizza"
+        ],
+        "confidence": "high",
+        "source_snippet": "Monday September 8th Buy any large specialty pizza for $25.99 + tax and get a dozen garlic knots for free! Dine in only! 02:00 PM - 08:00 PM",
+        "source_url": "https://joemommasgrille.com/charlotte-steel-creek-joe-momma-s-pizza-and-grill-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": "14:00",
+        "end_time": "20:00",
+        "price": 25.99,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "pizza"
+        ],
+        "confidence": "high",
+        "source_snippet": "Buy any large specialty pizza for $25.99 + tax and get a dozen garlic knots for free! Dine in only! 02:00 PM - 08:00 PM",
+        "source_url": "https://joemommasgrille.com/charlotte-steel-creek-joe-momma-s-pizza-and-grill-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 25.99,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "pizza"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Buy any large specialty pizza for $25.99 + tax and get a dozen garlic knots for free! Dine in only!",
+        "source_url": "https://joemommasgrille.com/charlotte-steel-creek-joe-momma-s-pizza-and-grill-happy-hours-specials",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.809Z"
+    "last_verified_at": "2025-09-07T17:34:00.912Z"
   },
   {
     "venue_name": "Just Fresh",
@@ -12270,12 +14237,133 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": "Sunday",
+        "start_time": null,
+        "end_time": null,
+        "price": 10,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "Host Your Private Event at The Wine Loft!Sunday September 7thEvery SundayLooking for the perfect venue for an unforgettable gathering? The Wine Loft is the ideal space for your event—whether it’s a so",
+        "source_url": "https://wineloftcharlotte.com/?source=header&spot_id=72341&destination=reservations&promotion=reservations",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Sunday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Host Your Private Event at The Wine Loft!Sunday September 7thEvery SundayLooking for the perfect venue for an unforgettable gathering? The Wine Loft is the ideal space for your event—whether it’s a so",
+        "source_url": "https://wineloftcharlotte.com/?source=header&spot_id=72341&destination=reservations&promotion=reservations",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": "Tuesday",
+        "start_time": null,
+        "end_time": null,
+        "price": 10,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "low",
+        "source_snippet": "All Wines by the Glass – Only $10!Tuesday September 9thEvery TuesdayUnwind at The Wine Loft Join us for an evening of exceptional wine, flavorful tapas, and warm company in Charlotte’s South End. Whet",
+        "source_url": "https://wineloftcharlotte.com/?source=header&spot_id=72341&destination=reservations&promotion=reservations",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": "Sunday",
+        "start_time": "11:00",
+        "end_time": "23:00",
+        "price": 10,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "SpecialsSunday September 7th Looking for the perfect venue for an unforgettable gathering? The Wine Loft is the ideal space for your event—whether it’s a sophisticated lunch or an elegant evening cele",
+        "source_url": "https://wineloftcharlotte.com/charlotte-south-end-the-wine-loft-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Sunday",
+        "start_time": "11:00",
+        "end_time": "23:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "Sunday September 7th Looking for the perfect venue for an unforgettable gathering? The Wine Loft is the ideal space for your event—whether it’s a sophisticated lunch or an elegant evening celebration.",
+        "source_url": "https://wineloftcharlotte.com/charlotte-south-end-the-wine-loft-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Sunday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Looking for the perfect venue for an unforgettable gathering? The Wine Loft is the ideal space for your event—whether it’s a sophisticated lunch or an elegant evening celebration. Closed Sundays & Mon",
+        "source_url": "https://wineloftcharlotte.com/charlotte-south-end-the-wine-loft-happy-hours-specials",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.810Z"
+    "last_verified_at": "2025-09-07T17:34:00.920Z"
   },
   {
     "venue_name": "Carrabba's Italian Grill",
@@ -12623,13 +14711,47 @@
         "source_snippet": "Hours{\"collapseDays\":null,\"dayOfWeekMap\":null,\"disableOpenUntil\":null,\"disableTodayFirst\":null,\"hideSchema\":null,\"highlightToday\":true,\"highlightTodayBackground\":null,\"hours\":[{\"day\":\"MONDAY\",\"intervals\":[{\"end\":1900,\"start\":800}],\"isClosed",
         "source_url": "https://locations.jamba.com/nc/charlotte/5501-josh-birmingham-pkwy",
         "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "MONDAY",
+        "start_time": "00:00",
+        "end_time": "19:30",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Hours{\"collapseDays\":null,\"dayOfWeekMap\":null,\"disableOpenUntil\":null,\"disableTodayFirst\":null,\"hideSchema\":null,\"highlightToday\":true,\"highlightTodayBackground\":null,\"hours\":[{\"day\":\"MONDAY\",\"intervals\":[{\"end\":1930,\"start\":730}],\"isClosed",
+        "source_url": "https://locations.jamba.com/az/phoenix/2370-happy-valley-rd",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "MONDAY",
+        "start_time": "00:00",
+        "end_time": "09:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Hours{\"collapseDays\":null,\"dayOfWeekMap\":null,\"disableOpenUntil\":null,\"disableTodayFirst\":null,\"hideSchema\":null,\"highlightToday\":true,\"highlightTodayBackground\":null,\"hours\":[{\"day\":\"MONDAY\",\"intervals\":[{\"end\":2100,\"start\":700}],\"isClosed",
+        "source_url": "https://locations.jamba.com/or/happy-valley/11965-se-sunnyside-rd",
+        "scrape_allowed": true
       }
     ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T16:41:10.753Z"
+    "last_verified_at": "2025-09-07T17:54:17.379Z"
   },
   {
     "venue_name": "Osteria LuCa",
@@ -16404,12 +18526,55 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Sunday",
+        "start_time": "08:00",
+        "end_time": "21:00",
+        "price": 1,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "wings",
+          "burgers",
+          "bbq"
+        ],
+        "confidence": "high",
+        "source_snippet": "Our MenuMenuLate Night MenuFried items are cooked in soybean oil | The consuming of raw or undercooked eggs, meat, poultry, seafood or shellfish may contribute to foodborne illness, especially if you",
+        "source_url": "https://thewingkingcafe.com/charlotte-wing-king-carowinds-food-menu",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 1,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "wings",
+          "burgers",
+          "bbq"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Fried items are cooked in soybean oil | The consuming of raw or undercooked eggs, meat, poultry, seafood or shellfish may contribute to foodborne illness, especially if you have a medical condition •",
+        "source_url": "https://thewingkingcafe.com/charlotte-wing-king-carowinds-food-menu",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.810Z"
+    "last_verified_at": "2025-09-07T17:34:00.920Z"
   },
   {
     "venue_name": "Wang & King Asian Cafe",
@@ -19735,12 +21900,32 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 4.85,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "bbq"
+        ],
+        "confidence": "low",
+        "source_snippet": "Our MenuMenuFresh RollsRolled in rice paper with vermicelli noodles, lettuces & herbs (2 rolls)Summer Rolls - Goi Cuo$4.85The classic with shrimp & pork, served with peanut sauce.Crunchy Rolls - Nem N",
+        "source_url": "https://www.banhmibrothers.com/charlotte-university-banh-mi-brothers-food-menu",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.811Z"
+    "last_verified_at": "2025-09-07T17:34:00.907Z"
   },
   {
     "venue_name": "Sports Page Food & Spirits",
@@ -21387,12 +23572,117 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": "19:00",
+        "end_time": "08:00",
+        "price": 20,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "sushi"
+        ],
+        "confidence": "high",
+        "source_snippet": "Chef's Specials*O Toro$20.00/nigiri$22.00/sashimiFatty tuna*Madai$14.00/nigiri$16.00/sashimiRed SnapperSoup / SaladMiso Soup$3.00Konnichiwa House Soup$3.00Konnichiwa House Salad$5.00Cucumber Salad$5.0",
+        "source_url": "https://konnichiwacharlotte.com/charlotte-dilworth-konnichiwa-food-menu",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 20,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "medium",
+        "source_snippet": "Chef's Specials*O Toro$20.00/nigiri$22.00/sashimiFatty tuna*Madai$14.00/nigiri$16.00/sashimiRed Snapper",
+        "source_url": "https://konnichiwacharlotte.com/charlotte-dilworth-konnichiwa-food-menu",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Tuesday",
+        "start_time": "11:00",
+        "end_time": "21:30",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "high",
+        "source_snippet": "SpecialsMonday September 8th We currently do not have any drink specials due to short supplies. We will restart our daily specials once we are able to bring in more supplies. Thank you for your unders",
+        "source_url": "https://konnichiwacharlotte.com/charlotte-dilworth-konnichiwa-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "11:00",
+        "end_time": "21:30",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "high",
+        "source_snippet": "Monday September 8th We currently do not have any drink specials due to short supplies. We will restart our daily specials once we are able to bring in more supplies. Thank you for your understanding",
+        "source_url": "https://konnichiwacharlotte.com/charlotte-dilworth-konnichiwa-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": "11:00",
+        "end_time": "21:30",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "medium",
+        "source_snippet": "We currently do not have any drink specials due to short supplies. We will restart our daily specials once we are able to bring in more supplies. Thank you for your understanding 11:00 AM - 09:30 PM",
+        "source_url": "https://konnichiwacharlotte.com/charlotte-dilworth-konnichiwa-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Wednesday",
+        "start_time": "11:00",
+        "end_time": "21:30",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "high",
+        "source_snippet": "Wednesday September 10th We currently do not have any drink specials due to short supplies. We will restart our daily specials once we are able to bring in more supplies. Thank you for your understand",
+        "source_url": "https://konnichiwacharlotte.com/charlotte-dilworth-konnichiwa-happy-hours-specials",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.811Z"
+    "last_verified_at": "2025-09-07T17:34:00.913Z"
   },
   {
     "venue_name": "Duck Donuts",
@@ -21415,12 +23705,121 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": null,
+        "end_time": null,
+        "price": 5,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "wings"
+        ],
+        "confidence": "high",
+        "source_snippet": "Newsroom2025Dippin', Dealin', and Sprinklin' Happiness: Duck Donuts® Rolls Out a Summer Full of Sweet SurprisesTwo Brand-New Programs and a Celebration That’s All About Sprinkles, Sunshine, and Sharin",
+        "source_url": "https://www.duckdonuts.com/newsroom/dippin-dealin-and-sprinklin-happiness-duck-donuts-rolls-out-a-summer-full-of-sweet-surprises",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 5,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "medium",
+        "source_snippet": "Meet the $5 Duck Deals",
+        "source_url": "https://www.duckdonuts.com/newsroom/dippin-dealin-and-sprinklin-happiness-duck-donuts-rolls-out-a-summer-full-of-sweet-surprises",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Wednesday",
+        "start_time": null,
+        "end_time": null,
+        "price": 2,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "high",
+        "source_snippet": "We're sprinkling happiness on National Sprinkle Day, Wednesday, July 23, with two sweet deals. Guests can buy one confetti donut, and get one confetti donut FREE, in-shop only. To keep the celebration",
+        "source_url": "https://www.duckdonuts.com/newsroom/dippin-dealin-and-sprinklin-happiness-duck-donuts-rolls-out-a-summer-full-of-sweet-surprises",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Friday",
+        "start_time": null,
+        "end_time": null,
+        "price": 6,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "wings"
+        ],
+        "confidence": "high",
+        "source_snippet": "Newsroom2025Duck Donuts® Celebrates National Donut Day with Free Cinnamon Sugar Donut and $6 Cinnamon Sugar Half Dozen DealGuests Can Enjoy a Free Cinnamon Sugar Donut In-Store on Friday, June 6, No P",
+        "source_url": "https://www.duckdonuts.com/newsroom/duck-donuts-celebrates-national-donut-day-with-free-cinnamon-sugar-donut-and-6-cinnamon-sugar-half-dozen-deal",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 6,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "medium",
+        "source_snippet": "Duck Donuts® Celebrates National Donut Day with Free Cinnamon Sugar Donut and $6 Cinnamon Sugar Half Dozen Deal",
+        "source_url": "https://www.duckdonuts.com/newsroom/duck-donuts-celebrates-national-donut-day-with-free-cinnamon-sugar-donut-and-6-cinnamon-sugar-half-dozen-deal",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Friday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "wings"
+        ],
+        "confidence": "low",
+        "source_snippet": "Newsroom2023Duck Donuts® is Making it a Lucky Friday the 13thBuy Any Dozen Donuts, Receive the 13th Donut Free on Friday, Oct. 13 The Limited-Time Spooky Box Makes its Ghoulish ReturnShareMECHANICSBUR",
+        "source_url": "https://www.duckdonuts.com/newsroom/duck-donuts-is-making-it-a-lucky-friday-the-13th",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.811Z"
+    "last_verified_at": "2025-09-07T17:34:00.909Z"
   },
   {
     "venue_name": "Monterrey Mexican Restaurant",
@@ -21883,13 +24282,70 @@
         "source_snippet": "Events Start stop events carouselTraining TuesdaysTuesday September 9thEvery TuesdayKeep you body and mind fresh every Tuesday at the Strain with run club & trivia!Run Club at 630 & Trivia at 730Yappy Hour Thurstdays!Thursday September 11th",
         "source_url": "https://plazamidwood.southernstrainbrewing.com/",
         "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Thursday",
+        "start_time": "16:00",
+        "end_time": "22:00",
+        "price": 5,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "high",
+        "source_snippet": "SpecialsTuesday September 9th Run Club 6:30 Mindless Minutia TRIVIA @ 7:30 Prizes given will quench your thirst! 04:00 PM - 10:00 PM Thursday September 11th Thirsty Thursdays everything on tap $5 04:0",
+        "source_url": "https://plazamidwood.southernstrainbrewing.com/charlotte-southern-strain-plaza-midwood-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Tuesday",
+        "start_time": "12:00",
+        "end_time": "10:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "low",
+        "source_snippet": "EventsTraining TuesdaysTuesday September 9thEvery TuesdayKeep you body and mind fresh every Tuesday at the Strain with run club & trivia!Run Club at 630 & Trivia at 73006:30 PM - Yappy Hour Thurstdays",
+        "source_url": "https://plazamidwood.southernstrainbrewing.com/charlotte-southern-strain-plaza-midwood-events",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Thursday",
+        "start_time": "12:00",
+        "end_time": "22:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "low",
+        "source_snippet": "Yappy Hour Thurstdays!Thursday September 11thEvery ThursdayThursday: Yappy Hour ThirstDays Bring your best friend and join us for #YappyHourThirstdaysThe perfect excuse to indulge in your favorite Sou",
+        "source_url": "https://plazamidwood.southernstrainbrewing.com/charlotte-southern-strain-plaza-midwood-events",
+        "scrape_allowed": true
       }
     ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T16:41:10.756Z"
+    "last_verified_at": "2025-09-07T17:34:00.916Z"
   },
   {
     "venue_name": "The People's Market - Elizabeth",
@@ -21946,13 +24402,133 @@
         "source_snippet": "Elizabeth Market - Book Club Mondays",
         "source_url": "https://thepeoplesmarket.co/",
         "scrape_allowed": true
+      },
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": "Tuesday",
+        "start_time": "14:00",
+        "end_time": "16:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "SpecialsMonday September 8th Coffee/Pastry Happy Hour 20% off 02:00 PM - 04:00 PM Tuesday September 9th Coffee/Pastry Happy Hour 20% off 02:00 PM - 04:00 PM Wednesday September 10th Coffee/Pastry Happ",
+        "source_url": "https://thepeoplesmarket.co/charlotte-elizabeth-the-people-s-market-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "14:00",
+        "end_time": "16:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "Monday September 8th Coffee/Pastry Happy Hour 20% off 02:00 PM - 04:00 PM",
+        "source_url": "https://thepeoplesmarket.co/charlotte-elizabeth-the-people-s-market-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": null,
+        "start_time": "14:00",
+        "end_time": "16:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Coffee/Pastry Happy Hour 20% off 02:00 PM - 04:00 PM",
+        "source_url": "https://thepeoplesmarket.co/charlotte-elizabeth-the-people-s-market-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": "Wednesday",
+        "start_time": "14:00",
+        "end_time": "16:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "Wednesday September 10th Coffee/Pastry Happy Hour 20% off 02:00 PM - 04:00 PM",
+        "source_url": "https://thepeoplesmarket.co/charlotte-elizabeth-the-people-s-market-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": "Thursday",
+        "start_time": "14:00",
+        "end_time": "16:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "Thursday September 11th Coffee/Pastry Happy Hour 20% off 02:00 PM - 04:00 PM",
+        "source_url": "https://thepeoplesmarket.co/charlotte-elizabeth-the-people-s-market-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": "Friday",
+        "start_time": "14:00",
+        "end_time": "16:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "Friday September 12th Coffee/Pastry Happy Hour 20% off 02:00 PM - 04:00 PM",
+        "source_url": "https://thepeoplesmarket.co/charlotte-elizabeth-the-people-s-market-happy-hours-specials",
+        "scrape_allowed": true
       }
     ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T16:41:10.757Z"
+    "last_verified_at": "2025-09-07T17:34:00.919Z"
   },
   {
     "venue_name": "Coco and the Director",
@@ -22731,12 +25307,34 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 8.99,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "wings",
+          "pizza",
+          "bbq"
+        ],
+        "confidence": "low",
+        "source_snippet": "AppetizersBruschetta$8.99Tomato, Basil, Red Onion, EVOO on crostiniGarlic Knots (4)$3.49Served with a side of marinaraCaprese$8.99Fresh Mozzarella, tomatoes, and basil. Drizzled with olive oil and our",
+        "source_url": "https://sapienzaclt.com/charlotte-pizzeria-sapienza-clt-food-menu",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.811Z"
+    "last_verified_at": "2025-09-07T17:34:00.915Z"
   },
   {
     "venue_name": "Poplar",
@@ -23711,12 +26309,149 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 7,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "wings",
+          "pizza",
+          "brunch",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Brunch Lunch Dinner Kids Dessert Happy Hour Brunch Lunch Dinner Kids Dessert Happy Hour View as PDF Small Plates Perfect to share! Daily Soup 10 Grilled Bread & Good Olive Oil 8.5 grana padano & herbs",
+        "source_url": "https://www.northitalia.com/locations/charlotte-nc/menus/lunch-menu/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 7,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "wings",
+          "pizza",
+          "brunch",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Brunch Lunch Dinner Kids Dessert Happy Hour Brunch Lunch Dinner Kids Dessert Happy Hour View as PDF Breakfast Banana Coffee Cake 13 Perfect to share! Dark rum butterscotch, caramelized banana, crème f",
+        "source_url": "https://www.northitalia.com/locations/charlotte-nc/menus/brunch-menu/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 7,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "wings",
+          "pizza",
+          "brunch",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Brunch Lunch Dinner Kids Dessert Happy Hour Brunch Lunch Dinner Kids Dessert Happy Hour View as PDF Small Plates Perfect to share! Daily Soup 10 Grilled Bread & Good Olive Oil 8.5 grana padano & herbs",
+        "source_url": "https://www.northitalia.com/locations/charlotte-nc/menus/dinner-menu/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": null,
+        "start_time": "16:00",
+        "end_time": "08:00",
+        "price": 1,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "pizza",
+          "burgers",
+          "brunch",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "Brunch Lunch Dinner Kids Dessert Happy Hour Brunch Lunch Dinner Kids Dessert Happy Hour View as PDF For the Lil' Ones with your choice of soft drink (5-260 cal) or nonfat milk (60 cal) Spaghetti 10 Ch",
+        "source_url": "https://www.northitalia.com/locations/charlotte-nc/menus/kids-menu/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": "Saturday",
+        "start_time": "15:00",
+        "end_time": "18:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "pizza",
+          "brunch",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "Brunch Lunch Dinner Kids Dessert Happy Hour Brunch Lunch Dinner Kids Dessert Happy Hour View as PDF Mon-Fri 3PM-6PM. Served in The Bar. Join us for Brunch - Saturdays & Sundays Eat Zucca Chips 8 Brusc",
+        "source_url": "https://www.northitalia.com/locations/charlotte-nc/menus/happy-hour-menu/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Brunch",
+        "description": null,
+        "weekday": "Saturday",
+        "start_time": "15:00",
+        "end_time": "18:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "pizza",
+          "brunch",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "Mon-Fri 3PM-6PM. Served in The Bar. Join us for Brunch - Saturdays & Sundays Eat Zucca Chips 8 Bruschetta 12 Choice of: tomato or prosciutto. (370/410 cal) Italian Meatballs 13 White Truffle Garlic Br",
+        "source_url": "https://www.northitalia.com/locations/charlotte-nc/menus/happy-hour-menu/",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.811Z"
+    "last_verified_at": "2025-09-07T17:34:00.913Z"
   },
   {
     "venue_name": "Vitality Bowls",
@@ -24121,12 +26856,125 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Brunch",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "08:00",
+        "end_time": "15:00",
+        "price": 1.75,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "brunch"
+        ],
+        "confidence": "high",
+        "source_snippet": "SpecialsSunday September 7th Various Yummy Brunch Specials! 08:00 AM - 03:00 PM Mimosa and Bloody Mary Specials! 08:00 AM - 09:00 PM Monday September 8th Chicken Chimichanga 11:00 AM - 09:00 PM Tuesda",
+        "source_url": "https://www.eddiesplacerestaurant.com/charlotte-cotswold-eddies-place-restaurant-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Brunch",
+        "description": null,
+        "weekday": "Sunday",
+        "start_time": "08:00",
+        "end_time": "15:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "brunch"
+        ],
+        "confidence": "high",
+        "source_snippet": "Sunday September 7th Various Yummy Brunch Specials! 08:00 AM - 03:00 PM Mimosa and Bloody Mary Specials! 08:00 AM - 09:00 PM",
+        "source_url": "https://www.eddiesplacerestaurant.com/charlotte-cotswold-eddies-place-restaurant-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Brunch",
+        "description": null,
+        "weekday": null,
+        "start_time": "08:00",
+        "end_time": "15:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "brunch"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Various Yummy Brunch Specials! 08:00 AM - 03:00 PM",
+        "source_url": "https://www.eddiesplacerestaurant.com/charlotte-cotswold-eddies-place-restaurant-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": "08:00",
+        "end_time": "21:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "medium",
+        "source_snippet": "Mimosa and Bloody Mary Specials! 08:00 AM - 09:00 PM",
+        "source_url": "https://www.eddiesplacerestaurant.com/charlotte-cotswold-eddies-place-restaurant-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Brunch",
+        "description": null,
+        "weekday": "Saturday",
+        "start_time": "08:00",
+        "end_time": "15:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "brunch"
+        ],
+        "confidence": "high",
+        "source_snippet": "Saturday September 13th Various Yummy Brunch Specials! 08:00 AM - 03:00 PM Mimosa and Bloody Mary Specials! 08:00 AM - 09:00 PM",
+        "source_url": "https://www.eddiesplacerestaurant.com/charlotte-cotswold-eddies-place-restaurant-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Brunch",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "08:00",
+        "end_time": "15:00",
+        "price": 1.75,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "brunch"
+        ],
+        "confidence": "high",
+        "source_snippet": "SpecialsSunday September 7th Various Yummy Brunch Specials! 08:00 AM - 03:00 PM Mimosa and Bloody Mary Specials! 08:00 AM - 09:00 PM Monday September 8th Chicken Chimichanga 11:00 AM - 09:00 PM Tuesda",
+        "source_url": "https://www.eddiesplacerestaurant.com/specials",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.811Z"
+    "last_verified_at": "2025-09-07T17:34:00.909Z"
   },
   {
     "venue_name": "Leroy Fox",
@@ -24503,12 +27351,32 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": "11:30",
+        "end_time": "14:00",
+        "price": 2,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "pizza"
+        ],
+        "confidence": "low",
+        "source_snippet": "Midtown CLT MenuMenuTruck MenuGourmet Pizza*Gluten-free options available in our 10\" for an up-charge of $2.* *Gluten-free crusts are not made in-house* Wheelz Sauce and Tomatoes are 100% Certified Or",
+        "source_url": "https://wheelzpizza.com/charlotte-wheelz-pizza-landing-page-food-menu-midtown",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.811Z"
+    "last_verified_at": "2025-09-07T17:34:00.920Z"
   },
   {
     "venue_name": "The Melting Pot",
@@ -24789,13 +27657,132 @@
         "source_snippet": "Raleigh A Spirited Luncheon – Friday, September 26thThe Crunkleton Raleigh, A Spirited Luncheon & Mash Bill tasting with Gary Crunkleton, Friday, September 26th, 2025. Read more",
         "source_url": "https://thecrunkleton.com/",
         "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "16:00",
+        "end_time": "02:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "About Locations Chapel Hill Charlotte Raleigh Events Chapel Hill Charlotte Raleigh Jobs News Menu Menu Chapel Hill EventsWe offer regular tastings and special events and are available to host your pri",
+        "source_url": "https://thecrunkleton.com/events/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "16:00",
+        "end_time": "02:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "About Locations Chapel Hill Charlotte Raleigh Events Chapel Hill Charlotte Raleigh Jobs News Menu Menu Chapel Hill EventsWe offer regular tastings and special events and are available to host your pri",
+        "source_url": "https://thecrunkleton.com/events//",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Brunch",
+        "description": null,
+        "weekday": null,
+        "start_time": "11:00",
+        "end_time": "15:30",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "brunch"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Food and Drink menus We take pride in purveying from local farms and providers and feature liquor selections from around the world. Dinner 5 pm Drinks (PDF) Spirits (PDF) Brunch 11 am – 3:30 pm",
+        "source_url": "https://thecrunkleton.com/locations/charlotte/menus/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Friday",
+        "start_time": "12:00",
+        "end_time": "14:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "low",
+        "source_snippet": "About Locations Chapel Hill Charlotte Raleigh Events Chapel Hill Charlotte Raleigh Jobs News Menu Menu CharlotteA Spirited Luncheon – Friday, September 19thJoin us for A Spirited Luncheon with George",
+        "source_url": "https://thecrunkleton.com/2025/09/03/a-spirited-luncheon-friday-september-19th/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Friday",
+        "start_time": "12:00",
+        "end_time": "14:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "low",
+        "source_snippet": "About Locations Chapel Hill Charlotte Raleigh Events Chapel Hill Charlotte Raleigh Jobs News Menu Menu CharlotteA Spirited Luncheon – Friday, August 29thJoin us for our next Spirited Luncheon with Mij",
+        "source_url": "https://thecrunkleton.com/2025/07/31/a-spirited-luncheon-friday-august-29th/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "16:00",
+        "end_time": "02:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "About Locations Chapel Hill Charlotte Raleigh Events Chapel Hill Charlotte Raleigh Jobs News Menu Menu Chapel Hill EventsWe offer regular tastings and special events and are available to host your pri",
+        "source_url": "https://thecrunkleton.com/events",
+        "scrape_allowed": true
       }
     ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T16:41:10.757Z"
+    "last_verified_at": "2025-09-07T17:34:00.918Z"
   },
   {
     "venue_name": "Ho Ho Cherry House",
@@ -25378,12 +28365,30 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 14.25,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "medium",
+        "source_snippet": "Our MenuMenu*These items are raw or undercooked. Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness, especially if you have certain me",
+        "source_url": "https://seoulpokebowl.com/charlotte-seoul-poke-bowl-food-menu",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.811Z"
+    "last_verified_at": "2025-09-07T17:34:00.916Z"
   },
   {
     "venue_name": "The Steak n' Hoagie Shop",
@@ -25602,7 +28607,7 @@
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T16:41:10.756Z"
+    "last_verified_at": "2025-09-07T17:34:00.916Z"
   },
   {
     "venue_name": "Taco Mama",
@@ -27081,12 +30086,57 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": "13:00",
+        "end_time": "16:00",
+        "price": 5.5,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "wings",
+          "pizza",
+          "bbq",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "Our DrinksBeerCocktailsDraft List - AlesFeaturedLocally owned, small batch Lager, perfect for \"Day To Day\"Fire Sale'Till they are gone!Pub Ale Bitter - Extra Special$5.50/10 oz$7.50/14 oz5.6% ABV 38 I",
+        "source_url": "https://thepublichouseclt.com/charlotte-the-public-house-drink-menu",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": null,
+        "start_time": null,
+        "end_time": null,
+        "price": 5.5,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "wings",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Draft List - AlesFeaturedLocally owned, small batch Lager, perfect for \"Day To Day\"Fire Sale'Till they are gone!Pub Ale Bitter - Extra Special$5.50/10 oz$7.50/14 oz5.6% ABV 38 IBU Pilot Brewing Charlo",
+        "source_url": "https://thepublichouseclt.com/charlotte-the-public-house-drink-menu",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.812Z"
+    "last_verified_at": "2025-09-07T17:34:00.919Z"
   },
   {
     "venue_name": "Cakeable Cafe",
@@ -27513,13 +30563,130 @@
         "source_snippet": "Special Dinners & Wine Tastings Upcoming Events We regularly host wine tastings and special dinners and have been known to throw a party on the patio! And, don’t forget about half-price bottles of wine every Wednesday. Upcoming Events",
         "source_url": "https://rosemontclt.com/",
         "scrape_allowed": true
+      },
+      {
+        "title": "Brunch",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "15:00",
+        "end_time": "18:00",
+        "price": 29,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "brunch",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "Menus Dinner & DrinksLunchBrunchWine ListSpirits Snacks & Salads 7 Marinated olives 15 Truffled Grilled Cheese Brioche, truffled cheese, st andre, shaved truffle, golden osetra caviar, chive 15 Fried",
+        "source_url": "https://rosemontclt.com/menus/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "15:00",
+        "end_time": "18:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "high",
+        "source_snippet": "Bubbles & Frites Our Bubbles & Frites special is available Monday through Friday from 3 PM to 6 PM. Treat yourself to a bottle of Cremant or Prosecco and delight in endless servings of fries served wi",
+        "source_url": "https://rosemontclt.com/menus/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Tuesday",
+        "start_time": "09:00",
+        "end_time": "11:00",
+        "price": 85,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "burgers",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "Events South African Wine Dinner Tuesday, September 16th • 6:00pm Join us on Tuesday, September 16th, for our special South Africa Wine Dinner. Start off your evening with a casual sampling of four wi",
+        "source_url": "https://rosemontclt.com/events/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Tuesday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "medium",
+        "source_snippet": "South African Wine Dinner Tuesday, September 16th • 6:00pm Join us on Tuesday, September 16th, for our special South Africa Wine Dinner. Start off your evening with a casual sampling of four wines and",
+        "source_url": "https://rosemontclt.com/events/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Brunch",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "15:00",
+        "end_time": "18:00",
+        "price": 29,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "brunch",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "Menus Dinner & DrinksLunchBrunchWine ListSpirits Snacks & Salads 7 Marinated olives 15 Truffled Grilled Cheese Brioche, truffled cheese, st andre, shaved truffle, golden osetra caviar, chive 15 Fried",
+        "source_url": "https://rosemontclt.com/menu",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "15:00",
+        "end_time": "18:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "high",
+        "source_snippet": "Bubbles & Frites Our Bubbles & Frites special is available Monday through Friday from 3 PM to 6 PM. Treat yourself to a bottle of Cremant or Prosecco and delight in endless servings of fries served wi",
+        "source_url": "https://rosemontclt.com/menu",
+        "scrape_allowed": true
       }
     ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T16:41:10.756Z"
+    "last_verified_at": "2025-09-07T17:34:00.916Z"
   },
   {
     "venue_name": "The Yard Milkshake Bar",
@@ -27610,13 +30777,132 @@
         "source_snippet": "Weekly Specials Add a fun twist to your regular week nights with our weekly specials. Mezcal Monday invites you to explore a rotating selection of discounted pours on select agave spirits. Each week features new options, making it the perfe",
         "source_url": "https://puertaclt.com/",
         "scrape_allowed": true
+      },
+      {
+        "title": "Brunch",
+        "description": null,
+        "weekday": "MONDAY",
+        "start_time": "17:00",
+        "end_time": "22:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "brunch"
+        ],
+        "confidence": "high",
+        "source_snippet": "Menus Dinner & Drinks Brunch & Drinks Spirits .avia-image-container.av-lmjnl56d-d504ecb7b71696a590d0dec4403185ca img.avia_image{ box-shadow:none; } .avia-image-container.av-lmjnl56d-d504ecb7b71696a590",
+        "source_url": "https://puertaclt.com/menus/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Brunch",
+        "description": null,
+        "weekday": "SATURDAY",
+        "start_time": "11:00",
+        "end_time": "15:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "brunch"
+        ],
+        "confidence": "high",
+        "source_snippet": "SATURDAY Brunch 11am-3pm Midday Menu 3pm-5pm Dinner 5pm-12am, Bar 11am-1am",
+        "source_url": "https://puertaclt.com/menus/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Brunch",
+        "description": null,
+        "weekday": "SUNDAY",
+        "start_time": "11:00",
+        "end_time": "15:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "brunch"
+        ],
+        "confidence": "high",
+        "source_snippet": "SUNDAY Brunch 11am-3pm Midday Menu 3pm-5pm Dinner 5pm-10pm, Bar 11am-10pm",
+        "source_url": "https://puertaclt.com/menus/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Brunch",
+        "description": null,
+        "weekday": "Saturday",
+        "start_time": "12:00",
+        "end_time": "14:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "brunch",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "A Spirited Brunch Ft. Patrón Saturday, August 23rd, 12-2pm Join us on Saturday, August 23rd, for a very special Spirited Brunch featuring Patrón in our newly renovated Mezcal Lounge. Enjoy a fantastic",
+        "source_url": "https://puertaclt.com/events/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Brunch",
+        "description": null,
+        "weekday": "Saturday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "brunch",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Join us on Saturday, August 23rd, for a very special Spirited Brunch featuring Patrón in our newly renovated Mezcal Lounge. Enjoy a fantastic three-course brunch experience complete with a Patrón tast",
+        "source_url": "https://puertaclt.com/events/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Sunday",
+        "start_time": "11:00",
+        "end_time": "17:00",
+        "price": 5,
+        "currency": "USD",
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "low",
+        "source_snippet": "Cinco De Mayo Patio Party Sunday, May 4th, 11am-5pm Puerta’s Cinco de Mayo Patio Party is back! We’re bringing the beats, drinks, and good vibes all day long. DJ Offie kicks things off from 12–3 PM, f",
+        "source_url": "https://puertaclt.com/events/",
+        "scrape_allowed": true
       }
     ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T16:41:10.756Z"
+    "last_verified_at": "2025-09-07T17:34:00.915Z"
   },
   {
     "venue_name": "Sanctuary",
@@ -29112,13 +32398,141 @@
         "source_snippet": "Happy Sunday🌞 Get your MOVE mindset going! The",
         "source_url": "https://musicyardclt.com/",
         "scrape_allowed": true
+      },
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": "Friday",
+        "start_time": "18:00",
+        "end_time": "19:30",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "tacos",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "low",
+        "source_snippet": "Announcing – MASSANE returns to The Music Yard on Friday, September 12th! French music producer, guitarist and live act Massane creates melodic house and techno music rich with sonic textures inspired",
+        "source_url": "https://musicyardclt.com/event/massane-2/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": null,
+        "start_time": "18:00",
+        "end_time": "19:30",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "tacos",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Event Details: – 6 pm Doors – Free Happy Hour Buffet from 6-7:30 PM for ticket buyers ONLY (with a drink purchase) – Walk-up & table-side food & beverage service – Uber/Lyft/Train to venue – DO NOT PA",
+        "source_url": "https://musicyardclt.com/event/massane-2/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": "Saturday",
+        "start_time": "18:00",
+        "end_time": "19:30",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "tacos",
+          "wings",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "low",
+        "source_snippet": "Announcing – The Hails set to make their Music Yard debut on Saturday, Septemeber 13, 2025 with support from local indie band Oceanic! The Hails is a five-piece indie rock band from Miami, Florida, fo",
+        "source_url": "https://musicyardclt.com/event/the-hails-w-oceanic/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": null,
+        "start_time": "18:00",
+        "end_time": "19:30",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "tacos",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Event Details: – 6 pm Doors – Free Happy Hour Buffet from 6-7:30 PM for ticket buyers ONLY (with a drink purchase) – Walk-up & table-side food & beverage service – Uber/Lyft/Train to venue – DO NOT PA",
+        "source_url": "https://musicyardclt.com/event/the-hails-w-oceanic/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": "Friday",
+        "start_time": "18:00",
+        "end_time": "19:30",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "tacos",
+          "wings",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "low",
+        "source_snippet": "Announcing – Darius, the multi-faceted French DJ and producer to headline The Music Yard on Friday, September 19th! Darius is one of those musicians who make you feel how much the “electronic” scene i",
+        "source_url": "https://musicyardclt.com/event/darius/",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": null,
+        "start_time": "18:00",
+        "end_time": "19:30",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "tacos",
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Event Details: – 6 pm Doors – Free Happy Hour Buffet from 6-7:30 PM for ticket buyers ONLY (with a drink purchase) – Walk-up & table-side food & beverage service – Uber/Lyft/Train to venue – DO NOT PA",
+        "source_url": "https://musicyardclt.com/event/darius/",
+        "scrape_allowed": true
       }
     ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T16:41:10.757Z"
+    "last_verified_at": "2025-09-07T17:34:00.919Z"
   },
   {
     "venue_name": "Merchant & Trade",
@@ -30481,12 +33895,47 @@
       "google_maps": ""
     },
     "hours": [],
-    "deals": [],
+    "deals": [
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "MONDAY",
+        "start_time": "11:00",
+        "end_time": "21:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "high",
+        "source_snippet": "SpecialsMonday September 8th MOUSSAKA MONDAYS - StoneCrest Location ONLY - While supplies last 11:00 AM - 09:00 PM",
+        "source_url": "https://ilioscraftedgreek.com/charlotte-ilios-crafted-greek-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Special",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": null,
+        "end_time": null,
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [],
+        "confidence": "low",
+        "source_snippet": "Monday September 8th",
+        "source_url": "https://ilioscraftedgreek.com/charlotte-ilios-crafted-greek-happy-hours-specials",
+        "scrape_allowed": true
+      }
+    ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T15:35:47.813Z"
+    "last_verified_at": "2025-09-07T17:54:17.380Z"
   },
   {
     "venue_name": "Ilios Crafted Greek",
@@ -31215,13 +34664,133 @@
         "source_snippet": "Elizabeth Market - Book Club Mondays",
         "source_url": "https://thepeoplesmarket.co/",
         "scrape_allowed": true
+      },
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": "Tuesday",
+        "start_time": "14:00",
+        "end_time": "16:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "SpecialsMonday September 8th Coffee/Pastry Happy Hour 20% off 02:00 PM - 04:00 PM Tuesday September 9th Coffee/Pastry Happy Hour 20% off 02:00 PM - 04:00 PM Wednesday September 10th Coffee/Pastry Happ",
+        "source_url": "https://thepeoplesmarket.co/charlotte-elizabeth-the-people-s-market-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": "Monday",
+        "start_time": "14:00",
+        "end_time": "16:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "Monday September 8th Coffee/Pastry Happy Hour 20% off 02:00 PM - 04:00 PM",
+        "source_url": "https://thepeoplesmarket.co/charlotte-elizabeth-the-people-s-market-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": null,
+        "start_time": "14:00",
+        "end_time": "16:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "medium",
+        "source_snippet": "Coffee/Pastry Happy Hour 20% off 02:00 PM - 04:00 PM",
+        "source_url": "https://thepeoplesmarket.co/charlotte-elizabeth-the-people-s-market-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": "Wednesday",
+        "start_time": "14:00",
+        "end_time": "16:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "Wednesday September 10th Coffee/Pastry Happy Hour 20% off 02:00 PM - 04:00 PM",
+        "source_url": "https://thepeoplesmarket.co/charlotte-elizabeth-the-people-s-market-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": "Thursday",
+        "start_time": "14:00",
+        "end_time": "16:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "Thursday September 11th Coffee/Pastry Happy Hour 20% off 02:00 PM - 04:00 PM",
+        "source_url": "https://thepeoplesmarket.co/charlotte-elizabeth-the-people-s-market-happy-hours-specials",
+        "scrape_allowed": true
+      },
+      {
+        "title": "Happy Hour",
+        "description": null,
+        "weekday": "Friday",
+        "start_time": "14:00",
+        "end_time": "16:00",
+        "price": null,
+        "currency": null,
+        "restrictions": [],
+        "start_date": null,
+        "end_date": null,
+        "category": [
+          "drinks",
+          "happy_hour"
+        ],
+        "confidence": "high",
+        "source_snippet": "Friday September 12th Coffee/Pastry Happy Hour 20% off 02:00 PM - 04:00 PM",
+        "source_url": "https://thepeoplesmarket.co/charlotte-elizabeth-the-people-s-market-happy-hours-specials",
+        "scrape_allowed": true
       }
     ],
     "menu_items": [],
     "notes": [
       "needs_follow_up: verify socials and add deals"
     ],
-    "last_verified_at": "2025-09-07T16:41:10.757Z"
+    "last_verified_at": "2025-09-07T17:34:00.919Z"
   },
   {
     "venue_name": "Pie In The Sky Pizza",
